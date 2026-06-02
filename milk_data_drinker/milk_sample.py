@@ -46,25 +46,10 @@ class Replicate:
     # Sets flags to identify replicate as representing the mean, standard deviation,
     # reference (for pilot), or difference (for pilot)
     def set_flags(self):
-        if self.name is "mean" or self.name is "Mean":
-            self.mean_flag = True
-        else:
-            self.mean_flag = False
-        
-        if self.name.lower() is "stddev":
-            self.stddev_flag = True
-        else:
-            self.stddev_flag = False
-
-        if self.name.lower() is "reference":
-            self.reference_flag = True
-        else:
-            self.reference_flag = False
-
-        if self.name.lower() is "difference":
-            self.difference_flag = True
-        else:
-            self.difference_flag = False
+        self.mean_flag = self.name.lower() == "mean"
+        self.stddev_flag = self.name.lower() == "stddev"
+        self.reference_flag = self.name.lower() == "reference"
+        self.difference_flag = self.name.lower() == "difference"
 
 # CLASS: SAMPLE
 # A donor, test, cleaning, or other instance of an analyzer run.
