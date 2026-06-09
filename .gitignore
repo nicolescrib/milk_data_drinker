@@ -7,6 +7,7 @@ build/
 .pytest_cache/
 **/data/sensitive/**
 **/data/sanitized/**
+**/reference/**
 .claude*
 .claude/
 .claude.md
