@@ -73,15 +73,6 @@ def _standardize_name_column(df: pd.DataFrame) -> pd.DataFrame:
         match = re.search(r'(DEP\s*\d+)', str(name), re.IGNORECASE)
         return match.group(1) if match else None
 
-    def extract_donor_name(name):
-        if pd.isna(name):
-            return None
-        match = re.search(r'DEP\s*\d+\s*-\s*(.+)', str(name), re.IGNORECASE)
-        if match:
-            donor = match.group(1).strip()
-            return donor if donor else None
-        return None
-
     def classify_sample_type(name):
         if pd.isna(name):
             return 'unknown'
@@ -96,6 +87,5 @@ def _standardize_name_column(df: pd.DataFrame) -> pd.DataFrame:
 
     df['name_original'] = df['Name']
     df['dep_id'] = df['Name'].apply(extract_dep_id)
-    df['donor_name'] = df['Name'].apply(extract_donor_name)
     df['sample_type'] = df['Name'].apply(classify_sample_type)
     return df

@@ -2,8 +2,8 @@
 """
 Sanitize analyzer report files for use as test fixtures.
 
-Replaces donor name fragments in sample name fields with consistent pseudonyms
-(Donor_A, Donor_B, ...) while preserving DEP IDs, nutrient values, and dates.
+Strips donor names from sample name fields, leaving only the DEP ID
+(e.g. "DEP041036-Lastname Firstname,,Milk Donors-Raw" → "DEP041036,,Milk Donors-Raw").
 
 XLS/XLSX inputs are converted to CSV on output — CSV is easier to inspect and
 sufficient for the parser.
@@ -27,12 +27,12 @@ import pandas as pd
 # Matches donor name fields in CSV-formatted analyzer output.
 # Header rows:  DEP041036-Lastname Firstname,,Milk Donors-Raw
 # Mean rows:    DEP041036-Lastname Firstname,Milk Donors-Raw
-# Group 1: DEP prefix + separator (e.g. "DEP041036-")
-# Group 2: name fragment / PII (e.g. "Lastname Firstname")
-# Group 3: CSV column separator commas between name and type cells
-# Group 4: "Milk Donors" literal
+# Group 1: DEP ID only (e.g. "DEP041036") — kept
+# Group 2: separator + name fragment (e.g. "-Lastname Firstname") — stripped
+# Group 3: CSV column separator commas — kept
+# Group 4: "Milk Donors" literal — kept
 _NAME_RE = re.compile(
-    r'(DEP\d+[-\s]+)([^,\n]+)(,+)(Milk\s+Donors)',
+    r'(DEP\d+)([-\s][^,\n]+)(,+)(Milk\s+Donors)',
     re.IGNORECASE,
 )
 
@@ -48,18 +48,8 @@ def _read_as_text(input_path: str) -> str:
         return f.read()
 
 
-def _build_name_map(content: str) -> dict[str, str]:
-    """Map each unique name fragment to a stable pseudonym."""
-    fragments = sorted({m.group(2).strip() for m in _NAME_RE.finditer(content)})
-    return {name: f"Donor_{chr(65 + i)}" for i, name in enumerate(fragments)}
-
-
-def _apply_name_map(content: str, name_map: dict[str, str]) -> str:
-    def replace(m: re.Match) -> str:
-        fragment = m.group(2).strip()
-        pseudonym = name_map.get(fragment, "Donor_X")
-        return f"{m.group(1)}{pseudonym}{m.group(3)}{m.group(4)}"
-    return _NAME_RE.sub(replace, content)
+def _strip_names(content: str) -> str:
+    return _NAME_RE.sub(lambda m: f"{m.group(1)}{m.group(3)}{m.group(4)}", content)
 
 
 def sanitize_file(input_path: str, output_dir: str) -> None:
@@ -67,22 +57,20 @@ def sanitize_file(input_path: str, output_dir: str) -> None:
     output_path = os.path.join(output_dir, stem + ".csv")
 
     content = _read_as_text(input_path)
-    name_map = _build_name_map(content)
+    matches = _NAME_RE.findall(content)
 
-    if not name_map:
+    if not matches:
         print(f"  WARNING: no donor name pattern found in {os.path.basename(input_path)}")
-        print("  Expected format: DEP{id}-{name} Milk Donors-{type}")
+        print("  Expected format: DEP{id}-{name}{,+}Milk Donors-{type}")
         print("  File will be written as-is (check for PII before committing)")
 
-    sanitized = _apply_name_map(content, name_map)
+    sanitized = _strip_names(content)
 
     os.makedirs(output_dir, exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(sanitized)
 
-    print(f"  {os.path.basename(input_path)} → {os.path.basename(output_path)}")
-    for original, pseudonym in name_map.items():
-        print(f"    '{original}' → '{pseudonym}'")
+    print(f"  {os.path.basename(input_path)} → {os.path.basename(output_path)} ({len(matches)} donor name(s) stripped)")
 
 
 def main() -> None:
