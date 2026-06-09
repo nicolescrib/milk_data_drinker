@@ -12,3 +12,4 @@ build/
 .claude.md
 .CLAUDE.*
 /tests/fixtures/*
+CLAUDE.md
