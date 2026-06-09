@@ -1,7 +1,6 @@
-import os
 import pytest
 import pandas as pd
-from milk_data_drinker.timeless.normalizer import read_file
+from milk_data_drinker.timeless._normalizer import normalize, normalize_columns
 
 
 @pytest.fixture
@@ -37,26 +36,25 @@ def csv_file(tmp_path):
 
 
 def test_reads_html_file(html_file):
-    df = read_file(html_file)
+    df = normalize(html_file)
     assert isinstance(df, pd.DataFrame)
     assert len(df) == 2
 
 
-def test_html_columns_cleaned(html_file):
-    df = read_file(html_file)
-    assert "Deposit" in df.columns or "deposit" in df.columns.str.lower().tolist()
+def test_html_raw_columns_preserved(html_file):
+    df = normalize(html_file)
+    assert "Deposit" in df.columns
 
 
 def test_reads_html_with_integer_headers(html_file_integer_headers):
-    df = read_file(html_file_integer_headers)
+    df = normalize(html_file_integer_headers)
     assert isinstance(df, pd.DataFrame)
     assert len(df) == 1
-    # first row should have been promoted to headers
     assert "Deposit" in df.columns
 
 
 def test_reads_csv_file(csv_file):
-    df = read_file(csv_file)
+    df = normalize(csv_file)
     assert isinstance(df, pd.DataFrame)
     assert len(df) == 2
     assert "Deposit" in df.columns
@@ -64,13 +62,13 @@ def test_reads_csv_file(csv_file):
 
 def test_raises_on_missing_file():
     with pytest.raises(Exception):
-        read_file("/nonexistent/path/report.xls")
+        normalize("/nonexistent/path/report.xls")
 
 
-def test_column_names_cleaned(tmp_path):
+def test_normalize_columns_cleans_special_chars(tmp_path):
     content = "<table><tr><th>Date Received</th><th>Expiry Date</th></tr><tr><td>2024-01-01</td><td>2024-06-01</td></tr></table>"
     p = tmp_path / "report.xls"
     p.write_text(content)
-    df = read_file(str(p))
-    assert "Date_Received" in df.columns
-    assert "Expiry_Date" in df.columns
+    df = normalize_columns(normalize(str(p)))
+    assert "date_received" in df.columns
+    assert "expiry_date" in df.columns
