@@ -8,6 +8,23 @@ from io import StringIO
 from .sample_reader import SampleReader
 from .._utils import clean_column_names
 
+# Maps raw column names (after clean_column_names) to canonical output names.
+# Nutr_Pro comes from "Nutr Pro" after clean_column_names normalizes spaces.
+_COLUMN_RENAMES = {
+    'Name': 'dep_id',
+    'Date': 'date',
+    'Replicate': 'replicate',
+    'Fat': 'fat',
+    'Protein': 'protein',
+    'Lactose': 'lactose',
+    'Nutr_Pro': 'nutritive_protein',
+    'Solids': 'solids',
+    'Cal': 'calories',
+}
+
+_NUMERIC_COLS = ['fat', 'protein', 'lactose', 'nutritive_protein', 'solids', 'calories']
+_ID_COLS = ['dep_id', 'date', 'source_file']
+
 
 def read_file(file_path: str) -> pd.DataFrame:
     """Read a lactoscope analyzer .xls, .xlsx, or .csv file. Returns a DataFrame."""
@@ -37,6 +54,13 @@ def _xls_to_csv_string(path: str) -> str:
     return buf.getvalue()
 
 
+def _extract_dep_id(name) -> str | None:
+    if pd.isna(name):
+        return None
+    match = re.search(r'DEP\s*\d+', str(name), re.IGNORECASE)
+    return match.group(0) if match else None
+
+
 def _parse_csv_content(csv_content: str, filename: str) -> pd.DataFrame:
     lines = csv_content.split('\n')
     first_data_line = next((i for i, line in enumerate(lines) if line.strip()), 0)
@@ -51,8 +75,6 @@ def _parse_csv_content(csv_content: str, filename: str) -> pd.DataFrame:
         df = reader.read_sample()
         if not df.empty:
             df['source_file'] = filename
-            if 'Date' in df.columns:
-                df['Date'] = pd.to_datetime(df['Date'], format='%m/%d/%Y %I:%M:%S %p', errors='coerce')
             frames.append(df)
 
     if not frames:
@@ -61,31 +83,33 @@ def _parse_csv_content(csv_content: str, filename: str) -> pd.DataFrame:
 
     result = pd.concat(frames, ignore_index=True)
     result = clean_column_names(result)
-    result = _standardize_name_column(result)
+    result = result.rename(columns=_COLUMN_RENAMES)
+    result = result.drop(columns=['Type'], errors='ignore')
+
+    if 'date' in result.columns:
+        result['date'] = pd.to_datetime(result['date'], format='%m/%d/%Y %I:%M:%S %p', errors='coerce')
+
+    result['dep_id'] = result['dep_id'].apply(_extract_dep_id)
+
+    before = len(result)
+    result = result[result['dep_id'].notna()].reset_index(drop=True)
+    dropped = before - len(result)
+    if dropped:
+        logging.info(f"Dropped {dropped} record(s) with no usable deposit ID from {filename}")
+
+    result = _pivot_to_one_row(result)
+
     logging.info(f"Extracted {len(result)} records from {filename}")
     return result
 
 
-def _standardize_name_column(df: pd.DataFrame) -> pd.DataFrame:
-    def extract_dep_id(name):
-        if pd.isna(name):
-            return None
-        match = re.search(r'(DEP\s*\d+)', str(name), re.IGNORECASE)
-        return match.group(1) if match else None
+def _pivot_to_one_row(df: pd.DataFrame) -> pd.DataFrame:
+    mean_df = df[df['replicate'] == 'Mean'].drop(columns='replicate').reset_index(drop=True)
+    stddev_df = df[df['replicate'] == 'StdDev'].drop(columns='replicate')
 
-    def classify_sample_type(name):
-        if pd.isna(name):
-            return 'unknown'
-        name_lower = str(name).lower().strip()
-        if re.search(r'dep\s*\d+', name_lower):
-            return 'deposit'
-        test_keywords = ['test', 'pilot', 'blank', 'control', 'qc', 'standard',
-                         'decon', 'calibration', 'validation', 'check', 'dunn', 'sonicate', 'skimmed']
-        if any(kw in name_lower for kw in test_keywords):
-            return 'test_control'
-        return 'other'
+    numeric_cols = [c for c in _NUMERIC_COLS if c in stddev_df.columns]
+    id_cols = [c for c in _ID_COLS if c in mean_df.columns]
 
-    df['name_original'] = df['Name']
-    df['dep_id'] = df['Name'].apply(extract_dep_id)
-    df['sample_type'] = df['Name'].apply(classify_sample_type)
-    return df
+    stddev_cols = stddev_df[id_cols + numeric_cols].rename(columns={c: f'{c}_stddev' for c in numeric_cols})
+
+    return mean_df.merge(stddev_cols, on=id_cols, how='left')

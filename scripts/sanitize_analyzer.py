@@ -25,14 +25,15 @@ import pandas as pd
 
 
 # Matches donor name fields in CSV-formatted analyzer output.
-# Header rows:  DEP041036-Lastname Firstname,,Milk Donors-Raw
-# Mean rows:    DEP041036-Lastname Firstname,Milk Donors-Raw
-# Group 1: DEP ID only (e.g. "DEP041036") — kept
-# Group 2: separator + name fragment (e.g. "-Lastname Firstname") — stripped
-# Group 3: CSV column separator commas — kept
-# Group 4: "Milk Donors" literal — kept
+# Unquoted:  DEP041036-Lastname Firstname,,Milk Donors-Raw
+# CSV-quoted: "DEP035593-Tran, J",,Milk Donors-Raw  (name contains comma → quoted by CSV writer)
+# Group 1: optional opening quote + DEP ID (e.g. 'DEP041036' or '"DEP041036') — DEP ID kept, quote stripped
+# Group 2: separator + name fragment — stripped
+# Group 3: optional closing quote — stripped
+# Group 4: CSV column separator commas — kept
+# Group 5: "Milk Donors" literal — kept
 _NAME_RE = re.compile(
-    r'(DEP\d+)([-\s][^,\n]+)(,+)(Milk\s+Donors)',
+    r'("?DEP\d+)([-\s][^,"\n]+(?:,[^,"\n]+)*)(\"?)(,+)(Milk\s+Donors)',
     re.IGNORECASE,
 )
 
@@ -49,7 +50,10 @@ def _read_as_text(input_path: str) -> str:
 
 
 def _strip_names(content: str) -> str:
-    return _NAME_RE.sub(lambda m: f"{m.group(1)}{m.group(3)}{m.group(4)}", content)
+    # group(1): DEP ID (possibly with leading quote — strip the quote)
+    # group(4): CSV column separator commas
+    # group(5): "Milk Donors"
+    return _NAME_RE.sub(lambda m: f"{m.group(1).lstrip('\"')}{m.group(4)}{m.group(5)}", content)
 
 
 def sanitize_file(input_path: str, output_dir: str) -> None:
