@@ -6,9 +6,9 @@ dist/
 build/
 .pytest_cache/
 **/data/sensitive/**
-**/data/**
-data/
+**/data/sanitized/**
 .claude*
 .claude/
 .claude.md
 .CLAUDE.*
+/tests/fixtures/*
