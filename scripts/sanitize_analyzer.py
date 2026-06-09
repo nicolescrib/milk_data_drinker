@@ -24,14 +24,15 @@ from io import StringIO
 import pandas as pd
 
 
-# Matches: DEP{id}{separator}{name fragment} Milk Donors
-# e.g. "DEP041036-lastnar Milk Donors-Raw"
-#      "DEP040955 Jane Smith Milk Donors-Raw"
-# Group 1: DEP prefix + separator
-# Group 2: name fragment (PII — one or more words, stops before "Milk Donors")
-# Group 3: " Milk Donors" suffix
+# Matches donor name fields in CSV-formatted analyzer output.
+# Header rows:  DEP041036-Lastname Firstname,,Milk Donors-Raw
+# Mean rows:    DEP041036-Lastname Firstname,Milk Donors-Raw
+# Group 1: DEP prefix + separator (e.g. "DEP041036-")
+# Group 2: name fragment / PII (e.g. "Lastname Firstname")
+# Group 3: CSV column separator commas between name and type cells
+# Group 4: "Milk Donors" literal
 _NAME_RE = re.compile(
-    r'(DEP\d+[-\s]+)((?:(?!Milk\s+Donors)\S+\s*)+)(Milk\s+Donors)',
+    r'(DEP\d+[-\s]+)([^,\n]+)(,+)(Milk\s+Donors)',
     re.IGNORECASE,
 )
 
@@ -57,10 +58,7 @@ def _apply_name_map(content: str, name_map: dict[str, str]) -> str:
     def replace(m: re.Match) -> str:
         fragment = m.group(2).strip()
         pseudonym = name_map.get(fragment, "Donor_X")
-        # Preserve whitespace style from the original (space or dash before name)
-        sep = m.group(1)[-1]  # last char of prefix: '-' or ' '
-        prefix = m.group(1)[:-1] + sep
-        return f"{prefix}{pseudonym} {m.group(3)}"
+        return f"{m.group(1)}{pseudonym}{m.group(3)}{m.group(4)}"
     return _NAME_RE.sub(replace, content)
 
 
