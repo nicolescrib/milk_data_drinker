@@ -1,4 +1,4 @@
-from milk_data_drinker import milk_sample as milk_analyzer
+from milk_data_drinker.analyzer import sample as milk_analyzer
 import pytest
 
 def test_yesno():

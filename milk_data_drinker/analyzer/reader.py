@@ -5,11 +5,12 @@ import re
 import pandas as pd
 from io import StringIO
 
-from .milk_reader import SampleReader
+from .sample_reader import SampleReader
+from .._utils import clean_column_names
 
 
 def read_file(file_path: str) -> pd.DataFrame:
-    """Read a lactoscope .xls, .xlsx, or .csv file. Returns a DataFrame."""
+    """Read a lactoscope analyzer .xls, .xlsx, or .csv file. Returns a DataFrame."""
     filename = os.path.basename(file_path)
     logging.info(f"Processing: {filename}")
 
@@ -59,22 +60,10 @@ def _parse_csv_content(csv_content: str, filename: str) -> pd.DataFrame:
         return pd.DataFrame()
 
     result = pd.concat(frames, ignore_index=True)
-    result = _clean_column_names(result)
+    result = clean_column_names(result)
     result = _standardize_name_column(result)
     logging.info(f"Extracted {len(result)} records from {filename}")
     return result
-
-
-def _clean_column_names(df: pd.DataFrame) -> pd.DataFrame:
-    clean = {}
-    for col in df.columns:
-        c = col.replace(' ', '_').replace(',', '_').replace(';', '_')
-        c = c.replace('(', '_').replace(')', '_').replace('\n', '_')
-        c = c.replace('\t', '_').replace('=', '_').replace('{', '_').replace('}', '_')
-        while '__' in c:
-            c = c.replace('__', '_')
-        clean[col] = c.strip('_')
-    return df.rename(columns=clean)
 
 
 def _standardize_name_column(df: pd.DataFrame) -> pd.DataFrame:

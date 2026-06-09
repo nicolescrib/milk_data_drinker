@@ -1,1 +1,1 @@
-from .milk_io import read_file
+from ._registry import read_file
