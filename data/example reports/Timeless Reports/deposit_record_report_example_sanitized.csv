@@ -2,78 +2,78 @@ Deposit,Donor/Milk Bank,Donor Warnings,Split off From,Location,Milk Type,Date Re
 DEP049229,DON014232,,N/A,Checked in 1,Term,5/1/2026,2/23/2027,780,0,780,Approved,Active
 DEP049230,DON014232,,N/A,12A Walk-in,Term,5/1/2026,2/23/2027,780,0,780,Approved,Active
 DEP049236,DON014966,,N/A,12A Walk-in,Term,5/1/2026,2/21/2027,"3,790.00",0,"3,790.00",Approved,Active
-DEP049218,DON014402,DO NOT USE: 9/7-9/14/2025 (unknown IV antibiotic during delivery),N/A,02C Walk-in,Term,5/1/2026,3/9/2027,"4,290.00",0,"4,290.00",Approved,Active
-DEP049220,DON014712,DO NOT USE: 1/23-1/30/26 (Cephalexin),N/A,13E Walk-in (mini),Term,5/1/2026,11/27/2026,"4,560.00",0,"4,560.00",Approved,Active
-DEP049213,DON014531,"DO NOT USE: 9/25-11/12/25 (medications typically used during labor and delivery, oxycodone, Nifedipine); 4/22-4/23/26 (anesthesia)",N/A,02C Walk-in,Term,5/1/2026,3/8/2027,"4,930.00",0,"4,930.00",Approved,Active
-DEP049208,DON013684,DO NOT USE: 5/16-5/23/25 (Medications typically used during labor and delivery),N/A,12E Walk-in,Term,5/1/2026,8/4/2026,"5,150.00",0,"5,150.00",Approved,Active
-DEP049240,DON014834,"DO NOT USE: 9/8- 9/15/25 (medications typically used for labor and delivery, unknown IV antibiotic)",N/A,N/A,Term,5/1/2026,10/30/2026,0,"5,620.00","5,620.00",Approved,Used
-DEP049222,DON015050,"DO NOT USE: 2/10-2/20/2026 (Medications typically used during labor and delivery, Oxycodone)",N/A,04G Walk-in,Term,5/1/2026,4/8/2027,"5,660.00",0,"5,660.00",Approved,Active
-DEP049238,DON014834,"DO NOT USE: 9/8- 9/15/25 (medications typically used for labor and delivery, unknown IV antibiotic)",N/A,N/A,Term,5/1/2026,10/30/2026,0,"5,670.00","5,670.00",Approved,Used
-DEP049227,DON014448,DO NOT USE: 5/17-6/3/25 (nifedipine); 9/11-9/15/25 (alcohol); 4/6-4/14/26 (Amoxicillin + Clavulanate),N/A,02C Walk-in,Term,5/1/2026,3/18/2027,"5,840.00",0,"5,840.00",Approved,Active
-DEP049223,DON014435,"DO NOT USE: 8/9-8/16/25 (Medications typically used during labor and delivery, Penicillin); 11/18/25 (alcohol)",N/A,12A Walk-in,Term,5/1/2026,2/1/2027,"5,970.00",0,"5,970.00",Approved,Active
-DEP049228,DON014940,DO NOT USE: 1/17-3/10/26 (Scalded),N/A,02C Walk-in,Term,5/1/2026,3/22/2027,"6,300.00",0,"6,300.00",Approved,Active
-DEP049237,DON014848,DO NOT USE: 10/12/25-2/19/26 (Alcohol),N/A,12A Walk-in,Term,5/1/2026,2/21/2027,"6,510.00",0,"6,510.00",Approved,Active
-DEP049211,DON014784,"DO NOT USE: 9/15-10/2/25 (meropenem, vancomycin, gentamicin, ampicillin, clindamycin, amoxicillin-clavulanate)",N/A,N/A,Term,5/1/2026,10/22/2026,0,"7,030.00","7,030.00",Approved,Used
-DEP049207,DON014944,"DO NOT USE: 12/10/2025 - 3/11/2026 (Nifedipine, Bactrim, Valtrex, alcohol)",N/A,02C Walk-in,Term,5/1/2026,3/28/2027,"7,180.00",0,"7,180.00",Approved,Active
-DEP049225,DON014990,"DO NOT USE: 12/28/25-1/8/26 (Hydralazine, Oxycodone)",N/A,02C Walk-in,Term,5/1/2026,3/6/2027,"7,410.00",0,"7,410.00",Approved,Active
-DEP049209,DON014695,"DO NOT USE: 12/21/25-1/6/26 (nifedipine, labetalol); 1/24-1/25/26 (alcohol)",N/A,Checked in 1,Term,5/1/2026,1/7/2027,"7,530.00",0,"7,530.00",Approved,Active
-DEP049252,DON015092,DO NOT USE: BEREAVED RESEARCH ONLY,N/A,Freezer 12,Research,5/4/2026,4/3/2027,120,0,120,Never Approved,Active
-DEP049250,DON015058,BEREAVED RESEARCH ONLY,N/A,Freezer 12,Research,5/4/2026,3/27/2027,400,0,400,Never Approved,Active
-DEP049253,DON015124,BEREAVED,N/A,16E Walk-in (mini),Colostrum,5/4/2026,3/17/2027,"2,000.00",0,"2,000.00",Approved,Active
+DEP049218,DON014402,,N/A,02C Walk-in,Term,5/1/2026,3/9/2027,"4,290.00",0,"4,290.00",Approved,Active
+DEP049220,DON014712,,N/A,13E Walk-in (mini),Term,5/1/2026,11/27/2026,"4,560.00",0,"4,560.00",Approved,Active
+DEP049213,DON014531,,N/A,02C Walk-in,Term,5/1/2026,3/8/2027,"4,930.00",0,"4,930.00",Approved,Active
+DEP049208,DON013684,,N/A,12E Walk-in,Term,5/1/2026,8/4/2026,"5,150.00",0,"5,150.00",Approved,Active
+DEP049240,DON014834,,N/A,N/A,Term,5/1/2026,10/30/2026,0,"5,620.00","5,620.00",Approved,Used
+DEP049222,DON015050,,N/A,04G Walk-in,Term,5/1/2026,4/8/2027,"5,660.00",0,"5,660.00",Approved,Active
+DEP049238,DON014834,,N/A,N/A,Term,5/1/2026,10/30/2026,0,"5,670.00","5,670.00",Approved,Used
+DEP049227,DON014448,,N/A,02C Walk-in,Term,5/1/2026,3/18/2027,"5,840.00",0,"5,840.00",Approved,Active
+DEP049223,DON014435,,N/A,12A Walk-in,Term,5/1/2026,2/1/2027,"5,970.00",0,"5,970.00",Approved,Active
+DEP049228,DON014940,,N/A,02C Walk-in,Term,5/1/2026,3/22/2027,"6,300.00",0,"6,300.00",Approved,Active
+DEP049237,DON014848,,N/A,12A Walk-in,Term,5/1/2026,2/21/2027,"6,510.00",0,"6,510.00",Approved,Active
+DEP049211,DON014784,,N/A,N/A,Term,5/1/2026,10/22/2026,0,"7,030.00","7,030.00",Approved,Used
+DEP049207,DON014944,,N/A,02C Walk-in,Term,5/1/2026,3/28/2027,"7,180.00",0,"7,180.00",Approved,Active
+DEP049225,DON014990,,N/A,02C Walk-in,Term,5/1/2026,3/6/2027,"7,410.00",0,"7,410.00",Approved,Active
+DEP049209,DON014695,,N/A,Checked in 1,Term,5/1/2026,1/7/2027,"7,530.00",0,"7,530.00",Approved,Active
+DEP049252,DON015092,,N/A,Freezer 12,Research,5/4/2026,4/3/2027,120,0,120,Never Approved,Active
+DEP049250,DON015058,,N/A,Freezer 12,Research,5/4/2026,3/27/2027,400,0,400,Never Approved,Active
+DEP049253,DON015124,,N/A,16E Walk-in (mini),Colostrum,5/4/2026,3/17/2027,"2,000.00",0,"2,000.00",Approved,Active
 DEP049271,DON013066,,N/A,15A Walk-in (mini),Term,5/4/2026,11/1/2026,"2,270.00",0,"2,270.00",Approved,Active
 DEP049277,DON014729,,N/A,01C Walk-in,Term,5/4/2026,3/5/2027,"2,880.00",0,"2,880.00",Approved,Active
-DEP049285,DON014930,"DO NOT USE: 12/23-12/31/25 (medications typically used during labor and delivery, Oxycodone)",N/A,01C Walk-in,Term,5/4/2026,3/7/2027,"2,960.00",0,"2,960.00",Approved,Active
-DEP049251,DON015095,BEREAVED RESEARCH ONLY,N/A,N/A,Research,5/4/2026,3/24/2027,0,"2,960.00","2,960.00",Never Approved,Disposed
-DEP049254,DON015124,BEREAVED,N/A,01C Walk-in,Term,5/4/2026,3/24/2027,"3,110.00",0,"3,110.00",Approved,Active
-DEP049281,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,Checked in 1,Term,5/4/2026,1/8/2027,"3,290.00",0,"3,290.00",Approved,Active
+DEP049285,DON014930,,N/A,01C Walk-in,Term,5/4/2026,3/7/2027,"2,960.00",0,"2,960.00",Approved,Active
+DEP049251,DON015095,,N/A,N/A,Research,5/4/2026,3/24/2027,0,"2,960.00","2,960.00",Never Approved,Disposed
+DEP049254,DON015124,,N/A,01C Walk-in,Term,5/4/2026,3/24/2027,"3,110.00",0,"3,110.00",Approved,Active
+DEP049281,DON015029,,N/A,Checked in 1,Term,5/4/2026,1/8/2027,"3,290.00",0,"3,290.00",Approved,Active
 DEP049289,DON015038,,N/A,01C Walk-in,Term,5/4/2026,3/4/2027,"3,290.00",0,"3,290.00",Approved,Active
-DEP049295,DON015008,"DO NOT USE: 2/10-2/27/26 (Vancomycin, Clindamycin, Gentamicin, Metronidazole, Cefepime)",N/A,01C Walk-in,Term,5/4/2026,3/2/2027,"3,420.00",0,"3,420.00",Approved,Active
-DEP049293,DON014695,"DO NOT USE: 12/21/25-1/6/26 (nifedipine, labetalol); 1/24-1/25/26 (alcohol)",N/A,Checked in 1,Term,5/4/2026,1/7/2027,"3,550.00",0,"3,550.00",Approved,Active
-DEP049273,DON014940,DO NOT USE: 1/17-3/10/26 (Scalded),N/A,01C Walk-in,Term,5/4/2026,3/10/2027,"3,740.00",0,"3,740.00",Approved,Active
+DEP049295,DON015008,,N/A,01C Walk-in,Term,5/4/2026,3/2/2027,"3,420.00",0,"3,420.00",Approved,Active
+DEP049293,DON014695,,N/A,Checked in 1,Term,5/4/2026,1/7/2027,"3,550.00",0,"3,550.00",Approved,Active
+DEP049273,DON014940,,N/A,01C Walk-in,Term,5/4/2026,3/10/2027,"3,740.00",0,"3,740.00",Approved,Active
 DEP049275,DON014729,,N/A,01C Walk-in,Term,5/4/2026,3/6/2027,"4,000.00",0,"4,000.00",Approved,Active
 DEP049276,DON014989,,N/A,12A Walk-in,Term,5/4/2026,2/13/2027,"4,100.00",0,"4,100.00",Approved,Active
-DEP049247,DON015000,BEREAVED RESEARCH ONLY,N/A,Freezer 12,Research,5/4/2026,2/2/2027,"4,140.00",0,"4,140.00",Never Approved,Active
-DEP049248,DON015000,BEREAVED RESEARCH ONLY,N/A,Freezer 12,Research,5/4/2026,2/2/2027,"4,180.00",0,"4,180.00",Never Approved,Active
-DEP049282,DON014572,DO NOT USE: 10/26-11/6/25 (Oxycodone),N/A,Checked in 1,Term,5/4/2026,1/20/2027,"4,250.00",0,"4,250.00",Approved,Active
-DEP049301,DON015050,"DO NOT USE: 2/10-2/20/2026 (Medications typically used during labor and delivery, Oxycodone)",N/A,04F Walk-in,Term,5/4/2026,4/14/2027,"4,630.00",0,"4,630.00",Approved,Active
+DEP049247,DON015000,,N/A,Freezer 12,Research,5/4/2026,2/2/2027,"4,140.00",0,"4,140.00",Never Approved,Active
+DEP049248,DON015000,,N/A,Freezer 12,Research,5/4/2026,2/2/2027,"4,180.00",0,"4,180.00",Never Approved,Active
+DEP049282,DON014572,,N/A,Checked in 1,Term,5/4/2026,1/20/2027,"4,250.00",0,"4,250.00",Approved,Active
+DEP049301,DON015050,,N/A,04F Walk-in,Term,5/4/2026,4/14/2027,"4,630.00",0,"4,630.00",Approved,Active
 DEP049297,DON013758,,N/A,Checked in 1,Term,5/4/2026,1/8/2027,"4,700.00",0,"4,700.00",Approved,Active
-DEP049280,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,Checked in 1,Term,5/4/2026,1/5/2027,"4,750.00",0,"4,750.00",Approved,Active
-DEP049266,DON015041,DO NOT USE: 3/14-3/31/26 (Alcohol),N/A,04G Walk-in,Term,5/4/2026,4/21/2027,"4,850.00",0,"4,850.00",Approved,Active
+DEP049280,DON015029,,N/A,Checked in 1,Term,5/4/2026,1/5/2027,"4,750.00",0,"4,750.00",Approved,Active
+DEP049266,DON015041,,N/A,04G Walk-in,Term,5/4/2026,4/21/2027,"4,850.00",0,"4,850.00",Approved,Active
 DEP049296,DON013758,,N/A,15D Walk-in (mini),Term,5/4/2026,12/24/2026,"4,890.00",0,"4,890.00",Approved,Active
-DEP049302,DON015050,"DO NOT USE: 2/10-2/20/2026 (Medications typically used during labor and delivery, Oxycodone)",N/A,04B Walk-in,Term,5/4/2026,4/16/2027,"4,900.00",0,"4,900.00",Approved,Active
+DEP049302,DON015050,,N/A,04B Walk-in,Term,5/4/2026,4/16/2027,"4,900.00",0,"4,900.00",Approved,Active
 DEP049298,DON015038,,N/A,Checked in 1,Term,5/4/2026,1/17/2027,"4,930.00",0,"4,930.00",Approved,Active
-DEP049300,DON015050,"DO NOT USE: 2/10-2/20/2026 (Medications typically used during labor and delivery, Oxycodone)",N/A,01C Walk-in,Term,5/4/2026,3/21/2027,"5,000.00",0,"5,000.00",Approved,Active
+DEP049300,DON015050,,N/A,01C Walk-in,Term,5/4/2026,3/21/2027,"5,000.00",0,"5,000.00",Approved,Active
 DEP049274,DON014989,,N/A,12A Walk-in,Term,5/4/2026,2/13/2027,"5,030.00",0,"5,030.00",Approved,Active
 DEP049287,DON014808,,N/A,Checked in 2,Term,5/4/2026,1/12/2027,"5,090.00",0,"5,090.00",Approved,Active
 DEP049291,DON015038,,N/A,Checked in 2,Term,5/4/2026,1/22/2027,"5,130.00",0,"5,130.00",Approved,Active
 DEP049284,DON014876,,N/A,13B Walk-in (mini),Term,5/4/2026,12/18/2026,"5,170.00",0,"5,170.00",Approved,Active
-DEP049294,DON015008,"DO NOT USE: 2/10-2/27/26 (Vancomycin, Clindamycin, Gentamicin, Metronidazole, Cefepime)",N/A,01C Walk-in,Term,5/4/2026,3/3/2027,"5,410.00",0,"5,410.00",Approved,Active
-DEP049262,DON014827,DO NOT USE: 10/14-10/24/25 (Oxycodone); 1/6-1/14/26 (Cephalexin),N/A,15A Walk-in (mini),Term,5/4/2026,11/6/2026,"5,540.00",0,"5,540.00",Approved,Active
-DEP049292,DON014695,"DO NOT USE: 12/21/25-1/6/26 (nifedipine, labetalol); 1/24-1/25/26 (alcohol)",N/A,Checked in 1,,5/4/2026,1/7/2027,"5,750.00",0,"5,750.00",Approved,Active
-DEP049268,DON014940,DO NOT USE: 1/17-3/10/26 (Scalded),N/A,01C Walk-in,Term,5/4/2026,3/10/2027,"5,960.00",0,"5,960.00",Approved,Active
-DEP049264,DON014666,DO NOT USE: 8/18-10/3/2025 (Labetalol) Donation received 3/3/26 (All milk pumped Dec-Feb some missing dates -all milk okay to check in and use due to no exclusions) -S.K.,N/A,01C Walk-in,Term,5/4/2026,3/16/2027,"6,160.00",0,"6,160.00",Approved,Active
-DEP049279,DON014332,DO NOT USE: 5/19-7/5/25 (Labetalol),N/A,04G Walk-in,Term,5/4/2026,4/6/2027,"6,230.00",0,"6,230.00",Approved,Active
+DEP049294,DON015008,,N/A,01C Walk-in,Term,5/4/2026,3/3/2027,"5,410.00",0,"5,410.00",Approved,Active
+DEP049262,DON014827,,N/A,15A Walk-in (mini),Term,5/4/2026,11/6/2026,"5,540.00",0,"5,540.00",Approved,Active
+DEP049292,DON014695,,N/A,Checked in 1,,5/4/2026,1/7/2027,"5,750.00",0,"5,750.00",Approved,Active
+DEP049268,DON014940,,N/A,01C Walk-in,Term,5/4/2026,3/10/2027,"5,960.00",0,"5,960.00",Approved,Active
+DEP049264,DON014666,,N/A,01C Walk-in,Term,5/4/2026,3/16/2027,"6,160.00",0,"6,160.00",Approved,Active
+DEP049279,DON014332,,N/A,04G Walk-in,Term,5/4/2026,4/6/2027,"6,230.00",0,"6,230.00",Approved,Active
 DEP049299,DON014744,,N/A,N/A,Term,5/4/2026,10/29/2026,0,"6,250.00","6,250.00",Approved,Used
-DEP049304,DON014036,DO NOT USE: 7/1/25-7/8/2025 (Medications typically used during labor and delivery),N/A,N/A,Term,5/4/2026,11/20/2026,0,"6,590.00","6,590.00",Approved,Used
+DEP049304,DON014036,,N/A,N/A,Term,5/4/2026,11/20/2026,0,"6,590.00","6,590.00",Approved,Used
 DEP049305,DON015073,,N/A,13B Walk-in (mini),Term,5/4/2026,12/1/2026,"6,610.00",0,"6,610.00",Approved,Active
-DEP049278,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,Checked in 1,Term,5/4/2026,1/11/2027,"7,040.00",0,"7,040.00",Approved,Active
-DEP049283,DON014739,DO NOT USE: 11/18-12/13/2025 (Oxycodone),N/A,Checked in 1,Term,5/4/2026,1/1/2027,"7,150.00",0,"7,150.00",Approved,Active
+DEP049278,DON015029,,N/A,Checked in 1,Term,5/4/2026,1/11/2027,"7,040.00",0,"7,040.00",Approved,Active
+DEP049283,DON014739,,N/A,Checked in 1,Term,5/4/2026,1/1/2027,"7,150.00",0,"7,150.00",Approved,Active
 DEP049290,DON013058,,N/A,12A Walk-in,Term,5/4/2026,2/17/2027,"7,210.00",0,"7,210.00",Approved,Active
-DEP049261,DON014834,"DO NOT USE: 9/8- 9/15/25 (medications typically used for labor and delivery, unknown IV antibiotic)",N/A,Checked in 1,Term,5/4/2026,1/2/2027,"7,550.00",0,"7,550.00",Approved,Active
-DEP049303,DON013966,"DO NOT USE: 6/13-6/23/25 (Medications typically used for labor and delivery, Oxycodone)",N/A,12A Walk-in,Term,5/4/2026,2/6/2027,"7,940.00",0,"7,940.00",Approved,Active
-DEP049263,DON014666,DO NOT USE: 8/18-10/3/2025 (Labetalol) Donation received 3/3/26 (All milk pumped Dec-Feb some missing dates -all milk okay to check in and use due to no exclusions) -S.K.,N/A,01C Walk-in,Term,5/4/2026,3/15/2027,"7,950.00",0,"7,950.00",Approved,Active
+DEP049261,DON014834,,N/A,Checked in 1,Term,5/4/2026,1/2/2027,"7,550.00",0,"7,550.00",Approved,Active
+DEP049303,DON013966,,N/A,12A Walk-in,Term,5/4/2026,2/6/2027,"7,940.00",0,"7,940.00",Approved,Active
+DEP049263,DON014666,,N/A,01C Walk-in,Term,5/4/2026,3/15/2027,"7,950.00",0,"7,950.00",Approved,Active
 DEP049327,DON015038,,N/A,01C Walk-in,Term,5/5/2026,3/12/2027,"3,050.00",0,"3,050.00",Approved,Active
-DEP049338,DON015040,"DO NOT USE: 10/15-12/31/25 (Medications used for labor and delivery, Oxycodone, Placenta capsules)",N/A,Checked in 1,Term,5/5/2026,1/16/2027,"3,790.00",0,"3,790.00",Approved,Active
+DEP049338,DON015040,,N/A,Checked in 1,Term,5/5/2026,1/16/2027,"3,790.00",0,"3,790.00",Approved,Active
 DEP049335,DON014771,,N/A,15A Walk-in (mini),Term,5/5/2026,11/17/2026,"3,890.00",0,"3,890.00",Approved,Active
-DEP049311,DON014393,DO NOT USE: 9/1-9/30/25 (ashwagandha),N/A,03A Walk-in,Term,5/5/2026,10/13/2026,"4,110.00",0,"4,110.00",Approved,Active
-DEP049340,DON014827,DO NOT USE: 10/14-10/24/25 (Oxycodone); 1/6-1/14/26 (Cephalexin),N/A,15A Walk-in (mini),Term,5/5/2026,11/27/2026,"4,700.00",0,"4,700.00",Approved,Active
+DEP049311,DON014393,,N/A,03A Walk-in,Term,5/5/2026,10/13/2026,"4,110.00",0,"4,110.00",Approved,Active
+DEP049340,DON014827,,N/A,15A Walk-in (mini),Term,5/5/2026,11/27/2026,"4,700.00",0,"4,700.00",Approved,Active
 DEP049341,DON014248,,N/A,15A Walk-in (mini),Term,5/5/2026,11/6/2026,"4,760.00",0,"4,760.00",Approved,Active
-DEP049310,DON014393,DO NOT USE: 9/1-9/30/25 (ashwagandha),N/A,N/A,Term,5/5/2026,10/13/2026,0,"5,140.00","5,140.00",Approved,Used
+DEP049310,DON014393,,N/A,N/A,Term,5/5/2026,10/13/2026,0,"5,140.00","5,140.00",Approved,Used
 DEP049313,DON014786,,N/A,12A Walk-in,Term,5/5/2026,2/7/2027,"5,190.00",0,"5,190.00",Approved,Active
-DEP049334,DON014806,"DO NOT USE: 3/1-4/30/25 (Unknown antibiotics); 7/26-8/6/25 (Cephalexin); 5/2-5/4/25, 10/31-11/2/25 (alcohol)",N/A,Checked in 1,Term,5/5/2026,1/21/2027,"5,300.00",0,"5,300.00",Approved,Active
+DEP049334,DON014806,,N/A,Checked in 1,Term,5/5/2026,1/21/2027,"5,300.00",0,"5,300.00",Approved,Active
 DEP049337,DON014438,,N/A,N/A,Term,5/5/2026,10/13/2026,0,"5,500.00","5,500.00",Approved,Used
 DEP049336,DON014438,,N/A,N/A,Term,5/5/2026,9/9/2026,0,"5,560.00","5,560.00",Approved,Used
-DEP049339,DON014806,"DO NOT USE: 3/1-4/30/25 (Unknown antibiotics); 7/26-8/6/25 (Cephalexin); 5/2-5/4/25, 10/31-11/2/25 (alcohol)",N/A,15A Walk-in (mini),Term,5/5/2026,11/10/2026,"5,750.00",0,"5,750.00",Approved,Active
+DEP049339,DON014806,,N/A,15A Walk-in (mini),Term,5/5/2026,11/10/2026,"5,750.00",0,"5,750.00",Approved,Active
 DEP049322,DON013058,,N/A,04B Walk-in,Term,5/5/2026,4/3/2027,"6,250.00",0,"6,250.00",Approved,Active
 DEP049326,DON015038,,N/A,Checked in 1,Term,5/5/2026,1/6/2027,"6,310.00",0,"6,310.00",Approved,Active
 DEP049344,DON015071,,N/A,01C Walk-in,Term,5/5/2026,3/27/2027,"6,480.00",0,"6,480.00",Approved,Active
@@ -81,98 +81,98 @@ DEP049345,DON015071,,N/A,01C Walk-in,Term,5/5/2026,3/25/2027,"6,670.00",0,"6,670
 DEP049315,DON014786,,N/A,11B Walk-in,Term,5/5/2026,2/7/2027,"6,690.00",0,"6,690.00",Approved,Active
 DEP049312,DON014786,,N/A,12A Walk-in,Term,5/5/2026,2/7/2027,"6,750.00",0,"6,750.00",Approved,Active
 DEP049314,DON014786,,N/A,12A Walk-in,Term,5/5/2026,2/7/2027,"6,800.00",0,"6,800.00",Approved,Active
-DEP049328,DON015003,"DO NOT USE: 12/14-12/30/25 (Amoxicillin + Clavulanate, Gentamicin, Ampicillin)",N/A,Checked in 1,Term,5/5/2026,1/1/2027,"7,270.00",0,"7,270.00",Approved,Active
+DEP049328,DON015003,,N/A,Checked in 1,Term,5/5/2026,1/1/2027,"7,270.00",0,"7,270.00",Approved,Active
 DEP049343,DON014657,,N/A,Checked in 1,Term,5/5/2026,1/4/2027,"7,490.00",0,"7,490.00",Approved,Active
 DEP049342,DON014657,,N/A,13B Walk-in (mini),Term,5/5/2026,12/31/2026,"7,500.00",0,"7,500.00",Approved,Active
-DEP049390,DON015022,"DO NOT USE: 3/26-4/2/25 (medications typically used during labor and delivery, unknow IV antibiotics); 9/21-9/28/25 (Amoxicillin)",N/A,04E Walk-in,Term,5/6/2026,4/1/2027,"2,840.00",0,"2,840.00",Approved,Active
-DEP049372,DON015121,"DO NOT USE: 12/31/25-1/7/26 (medications typically used during labor and delivery, Oxycodone); 1/17-1/28/26 (Dicloxacillin)",N/A,Checked in 1,Term,5/6/2026,1/29/2027,"3,070.00",0,"3,070.00",Approved,Active
+DEP049390,DON015022,,N/A,04E Walk-in,Term,5/6/2026,4/1/2027,"2,840.00",0,"2,840.00",Approved,Active
+DEP049372,DON015121,,N/A,Checked in 1,Term,5/6/2026,1/29/2027,"3,070.00",0,"3,070.00",Approved,Active
 DEP049394,DON015081,,N/A,Checked in 2,Term,5/6/2026,3/16/2027,"3,160.00",0,"3,160.00",Approved,Active
 DEP049386,DON014058,,N/A,N/A,Term,5/6/2026,9/28/2026,0,"3,300.00","3,300.00",Approved,Used
-DEP049379,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,15C Walk-in (mini),Term,5/6/2026,12/18/2026,"4,140.00",0,"4,140.00",Approved,Active
-DEP049388,DON014788,DO NOT USE: 9/1-9/4/25 (Oxycodone),N/A,15C Walk-in (mini),Term,5/6/2026,12/15/2026,"4,480.00",0,"4,480.00",Approved,Active
-DEP049366,DON015121,"DO NOT USE: 12/31/25-1/7/26 (medications typically used during labor and delivery, Oxycodone); 1/17-1/28/26 (Dicloxacillin)",N/A,Checked in 1,Term,5/6/2026,1/12/2027,"5,200.00",0,"5,200.00",Approved,Active
+DEP049379,DON015029,,N/A,15C Walk-in (mini),Term,5/6/2026,12/18/2026,"4,140.00",0,"4,140.00",Approved,Active
+DEP049388,DON014788,,N/A,15C Walk-in (mini),Term,5/6/2026,12/15/2026,"4,480.00",0,"4,480.00",Approved,Active
+DEP049366,DON015121,,N/A,Checked in 1,Term,5/6/2026,1/12/2027,"5,200.00",0,"5,200.00",Approved,Active
 DEP049362,DON015083,,N/A,Checked in 1,Term,5/6/2026,3/28/2027,"5,530.00",0,"5,530.00",Approved,Active
 DEP049375,DON014923,,N/A,Checked in 1,Term,5/6/2026,1/11/2027,"5,540.00",0,"5,540.00",Approved,Active
-DEP049393,DON014939,"DO NOT USE: 2/15-3/11/26 (oxycodone, celecoxib)",N/A,02G Walk-in,Term,5/6/2026,3/12/2027,"5,770.00",0,"5,770.00",Approved,Active
-DEP049363,DON014939,"DO NOT USE: 2/15-3/11/26 (oxycodone, celecoxib)",N/A,Checked in 1,Term,5/6/2026,3/12/2027,"5,840.00",0,"5,840.00",Approved,Active
+DEP049393,DON014939,,N/A,02G Walk-in,Term,5/6/2026,3/12/2027,"5,770.00",0,"5,770.00",Approved,Active
+DEP049363,DON014939,,N/A,Checked in 1,Term,5/6/2026,3/12/2027,"5,840.00",0,"5,840.00",Approved,Active
 DEP049384,DON014058,,N/A,N/A,Term,5/6/2026,10/1/2026,0,"5,870.00","5,870.00",Approved,Used
-DEP049378,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,15C Walk-in (mini),Term,5/6/2026,12/8/2026,"5,910.00",0,"5,910.00",Approved,Active
-DEP049364,DON014087,DO NOT USE: 8/8-8/23/25 (Nifedipine); 9/24-10/1/25 (cephalexin),N/A,02G Walk-in,Term,5/6/2026,3/22/2027,"6,050.00",0,"6,050.00",Approved,Active
-DEP049380,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,15C Walk-in (mini),Term,5/6/2026,12/23/2026,"6,100.00",0,"6,100.00",Approved,Active
+DEP049378,DON015029,,N/A,15C Walk-in (mini),Term,5/6/2026,12/8/2026,"5,910.00",0,"5,910.00",Approved,Active
+DEP049364,DON014087,,N/A,02G Walk-in,Term,5/6/2026,3/22/2027,"6,050.00",0,"6,050.00",Approved,Active
+DEP049380,DON015029,,N/A,15C Walk-in (mini),Term,5/6/2026,12/23/2026,"6,100.00",0,"6,100.00",Approved,Active
 DEP049354,DON015071,,N/A,02G Walk-in,Term,5/6/2026,3/21/2027,"6,250.00",0,"6,250.00",Approved,Active
 DEP049359,DON015071,,N/A,02G Walk-in,Term,5/6/2026,3/21/2027,"6,260.00",0,"6,260.00",Approved,Active
-DEP049377,DON014087,DO NOT USE: 8/8-8/23/25 (Nifedipine); 9/24-10/1/25 (cephalexin),N/A,Checked in 1,Term,5/6/2026,3/19/2027,"6,370.00",0,"6,370.00",Approved,Active
-DEP049395,DON014939,"DO NOT USE: 2/15-3/11/26 (oxycodone, celecoxib)",N/A,02G Walk-in,Term,5/6/2026,3/20/2027,"6,450.00",0,"6,450.00",Approved,Active
+DEP049377,DON014087,,N/A,Checked in 1,Term,5/6/2026,3/19/2027,"6,370.00",0,"6,370.00",Approved,Active
+DEP049395,DON014939,,N/A,02G Walk-in,Term,5/6/2026,3/20/2027,"6,450.00",0,"6,450.00",Approved,Active
 DEP049385,DON015007,,N/A,02G Walk-in,Term,5/6/2026,3/5/2027,"6,750.00",0,"6,750.00",Approved,Active
-DEP049392,DON015003,"DO NOT USE: 12/14-12/30/25 (Amoxicillin + Clavulanate, Gentamicin, Ampicillin)",N/A,Checked in 2,Term,5/6/2026,1/10/2027,"6,830.00",0,"6,830.00",Approved,Active
+DEP049392,DON015003,,N/A,Checked in 2,Term,5/6/2026,1/10/2027,"6,830.00",0,"6,830.00",Approved,Active
 DEP049373,DON015055,,N/A,Checked in 1,Term,5/6/2026,3/1/2027,"7,110.00",0,"7,110.00",Approved,Active
 DEP049365,DON015055,,N/A,02G Walk-in,Term,5/6/2026,3/5/2027,"7,180.00",0,"7,180.00",Approved,Active
-DEP049361,DON014939,"DO NOT USE: 2/15-3/11/26 (oxycodone, celecoxib)",N/A,02G Walk-in,Term,5/6/2026,3/18/2027,"7,470.00",0,"7,470.00",Approved,Active
+DEP049361,DON014939,,N/A,02G Walk-in,Term,5/6/2026,3/18/2027,"7,470.00",0,"7,470.00",Approved,Active
 DEP049374,DON015055,,N/A,02G Walk-in,Term,5/6/2026,3/15/2027,"7,510.00",0,"7,510.00",Approved,Active
 DEP049376,DON015083,,N/A,Checked in 1,Term,5/6/2026,3/31/2027,"7,520.00",0,"7,520.00",Approved,Active
 DEP049391,DON015025,,N/A,02G Walk-in,Term,5/6/2026,3/17/2027,"7,630.00",0,"7,630.00",Approved,Active
-DEP049383,DON014228,DO NOT USE: 10/15-10/22/25 (Oxycodone),N/A,02G Walk-in,Term,5/6/2026,3/26/2027,"8,290.00",0,"8,290.00",Approved,Active
-DEP049382,DON014228,DO NOT USE: 10/15-10/22/25 (Oxycodone),N/A,02G Walk-in,Term,5/6/2026,3/25/2027,"8,660.00",0,"8,660.00",Approved,Active
-DEP049423,DON014918,BEREAVED,N/A,11B Walk-in,Term,5/7/2026,2/25/2027,"1,320.00",0,"1,320.00",Approved,Active
-DEP049426,DON015053,DO NOT USE: 1/16-1/23/26 (Oxycodone); 3/28-4/8/26 (Cephalexin),N/A,11B Walk-in,Term,5/7/2026,2/15/2027,"3,390.00",0,"3,390.00",Approved,Active
+DEP049383,DON014228,,N/A,02G Walk-in,Term,5/6/2026,3/26/2027,"8,290.00",0,"8,290.00",Approved,Active
+DEP049382,DON014228,,N/A,02G Walk-in,Term,5/6/2026,3/25/2027,"8,660.00",0,"8,660.00",Approved,Active
+DEP049423,DON014918,,N/A,11B Walk-in,Term,5/7/2026,2/25/2027,"1,320.00",0,"1,320.00",Approved,Active
+DEP049426,DON015053,,N/A,11B Walk-in,Term,5/7/2026,2/15/2027,"3,390.00",0,"3,390.00",Approved,Active
 DEP049418,DON014931,,N/A,01G Walk-in,Term,5/7/2026,3/25/2027,"3,490.00",0,"3,490.00",Approved,Active
-DEP049422,DON014565,"DO NOT USE: 10/18-10/28/25 (Medications typically used for labor and delivery, Hydrocodone)",N/A,04E Walk-in,Term,5/7/2026,4/11/2027,"4,070.00",0,"4,070.00",Approved,Active
-DEP049416,DON014571,"DO NOT USE: 8/29-9/12/25, 9/30-10/14/25 (Dicloxacillin)",N/A,Checked in 1,Term,5/7/2026,2/1/2027,"4,550.00",0,"4,550.00",Approved,Active
-DEP049421,DON014565,"DO NOT USE: 10/18-10/28/25 (Medications typically used for labor and delivery, Hydrocodone)",N/A,04E Walk-in,Term,5/7/2026,4/11/2027,"4,680.00",0,"4,680.00",Approved,Active
+DEP049422,DON014565,,N/A,04E Walk-in,Term,5/7/2026,4/11/2027,"4,070.00",0,"4,070.00",Approved,Active
+DEP049416,DON014571,,N/A,Checked in 1,Term,5/7/2026,2/1/2027,"4,550.00",0,"4,550.00",Approved,Active
+DEP049421,DON014565,,N/A,04E Walk-in,Term,5/7/2026,4/11/2027,"4,680.00",0,"4,680.00",Approved,Active
 DEP049425,DON014591,,N/A,01G Walk-in,Term,5/7/2026,3/18/2027,"4,750.00",0,"4,750.00",Approved,Active
 DEP049411,DON014778,,N/A,01G Walk-in,Term,5/7/2026,3/19/2027,"5,670.00",0,"5,670.00",Approved,Active
 DEP049409,DON015082,,N/A,04E Walk-in,Term,5/7/2026,4/26/2027,"5,800.00",0,"5,800.00",Approved,Active
-DEP049414,DON014834,"DO NOT USE: 9/8- 9/15/25 (medications typically used for labor and delivery, unknown IV antibiotic)",N/A,13E Walk-in (mini),Term,5/7/2026,11/4/2026,"6,800.00",0,"6,800.00",Approved,Active
-DEP049420,DON014565,"DO NOT USE: 10/18-10/28/25 (Medications typically used for labor and delivery, Hydrocodone)",N/A,04E Walk-in,Term,5/7/2026,4/7/2027,"7,380.00",0,"7,380.00",Approved,Active
+DEP049414,DON014834,,N/A,13E Walk-in (mini),Term,5/7/2026,11/4/2026,"6,800.00",0,"6,800.00",Approved,Active
+DEP049420,DON014565,,N/A,04E Walk-in,Term,5/7/2026,4/7/2027,"7,380.00",0,"7,380.00",Approved,Active
 DEP049419,DON012936,,N/A,15C Walk-in (mini),Term,5/7/2026,12/19/2026,"7,800.00",0,"7,800.00",Approved,Active
 DEP049442,DON014353,,N/A,03C Walk-in,Term,5/8/2026,10/19/2026,"1,400.00",0,"1,400.00",Approved,Active
 DEP049432,DON015088,,N/A,01G Walk-in,Term,5/8/2026,3/12/2027,"2,640.00",0,"2,640.00",Approved,Active
 DEP049464,DON015088,,N/A,01G Walk-in,Term,5/8/2026,3/11/2027,"3,080.00",0,"3,080.00",Approved,Active
-DEP049431,DON014391,"DO NOT USE: 7/24-8/4/25 (medications typically used during labor and delivery, Oxycodone); 9/24-9/25/25 (anesthesia)",N/A,12E Walk-in,Term,5/8/2026,8/7/2026,"3,090.00",0,"3,090.00",Approved,Active
-DEP049465,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,11B Walk-in,Term,5/8/2026,2/4/2027,"3,190.00",0,"3,190.00",Approved,Active
+DEP049431,DON014391,,N/A,12E Walk-in,Term,5/8/2026,8/7/2026,"3,090.00",0,"3,090.00",Approved,Active
+DEP049465,DON015029,,N/A,11B Walk-in,Term,5/8/2026,2/4/2027,"3,190.00",0,"3,190.00",Approved,Active
 DEP049474,DON015025,,N/A,01G Walk-in,Term,5/8/2026,3/20/2027,"3,250.00",0,"3,250.00",Approved,Active
-DEP049477,DON014957,Dairy Free bags are marked DF,N/A,15D Walk-in (mini),Term,5/8/2026,12/16/2026,"3,630.00",0,"3,630.00",Approved,Active
-DEP049479,DON014910,"DO NOT USE: 11/2/25-3/3/26 (medications typically used during labor and delivery, unknown abx, alcohol)",N/A,01G Walk-in,Term,5/8/2026,3/8/2027,"3,690.00",0,"3,690.00",Approved,Active
+DEP049477,DON014957,,N/A,15D Walk-in (mini),Term,5/8/2026,12/16/2026,"3,630.00",0,"3,630.00",Approved,Active
+DEP049479,DON014910,,N/A,01G Walk-in,Term,5/8/2026,3/8/2027,"3,690.00",0,"3,690.00",Approved,Active
 DEP049450,DON013648,,N/A,15C Walk-in (mini),Term,5/8/2026,12/7/2026,"3,760.00",0,"3,760.00",Approved,Active
-DEP049478,DON014957,Dairy Free bags are marked DF,N/A,15D Walk-in (mini),Term,5/8/2026,12/31/2026,"3,880.00",0,"3,880.00",Approved,Active
-DEP049482,DON014857,DO NOT USE: 2/23-3/6/26 (Cephalexin),N/A,11B Walk-in,Term,5/8/2026,2/11/2027,"4,410.00",0,"4,410.00",Approved,Active
-DEP049434,DON014571,"DO NOT USE: 8/29-9/12/25, 9/30-10/14/25 (Dicloxacillin)",N/A,11B Walk-in,Term,5/8/2026,2/25/2027,"4,460.00",0,"4,460.00",Approved,Active
+DEP049478,DON014957,,N/A,15D Walk-in (mini),Term,5/8/2026,12/31/2026,"3,880.00",0,"3,880.00",Approved,Active
+DEP049482,DON014857,,N/A,11B Walk-in,Term,5/8/2026,2/11/2027,"4,410.00",0,"4,410.00",Approved,Active
+DEP049434,DON014571,,N/A,11B Walk-in,Term,5/8/2026,2/25/2027,"4,460.00",0,"4,460.00",Approved,Active
 DEP049480,DON015025,,N/A,01G Walk-in,Term,5/8/2026,3/28/2027,"4,620.00",0,"4,620.00",Approved,Active
 DEP049481,DON015025,,N/A,04F Walk-in,Term,5/8/2026,4/15/2027,"4,620.00",0,"4,620.00",Approved,Active
-DEP049459,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,Checked in 1,Term,5/8/2026,1/2/2027,"4,820.00",0,"4,820.00",Approved,Active
-DEP049461,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,Checked in 1,Term,5/8/2026,1/13/2027,"5,030.00",0,"5,030.00",Approved,Active
-DEP049437,DON015059,DO NOT USE: 8/8-8/15/25 (medications typically used during labor and delivery),N/A,15A Walk-in (mini),Term,5/8/2026,11/3/2026,"5,250.00",0,"5,250.00",Approved,Active
-DEP049451,DON014916,DO NOT USE: 9/27-9/29/25 (Hydralazine),N/A,15C Walk-in (mini),Term,5/8/2026,12/17/2026,"5,500.00",0,"5,500.00",Approved,Active
+DEP049459,DON015029,,N/A,Checked in 1,Term,5/8/2026,1/2/2027,"4,820.00",0,"4,820.00",Approved,Active
+DEP049461,DON015029,,N/A,Checked in 1,Term,5/8/2026,1/13/2027,"5,030.00",0,"5,030.00",Approved,Active
+DEP049437,DON015059,,N/A,15A Walk-in (mini),Term,5/8/2026,11/3/2026,"5,250.00",0,"5,250.00",Approved,Active
+DEP049451,DON014916,,N/A,15C Walk-in (mini),Term,5/8/2026,12/17/2026,"5,500.00",0,"5,500.00",Approved,Active
 DEP049467,DON015088,,N/A,01G Walk-in,Term,5/8/2026,3/11/2027,"5,510.00",0,"5,510.00",Approved,Active
-DEP049466,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,Checked in 1,Term,5/8/2026,1/20/2027,"5,640.00",0,"5,640.00",Approved,Active
-DEP049449,DON014506,"DO NOT USE: 10/20-11/21/2025 (Oxycodone, Nifedipine, Clarithromycin); 12/22/25-1/2/26 (clindamycin); 1/14-1/20/26 (amoxicillin); 2/8-2/19/26 (Clindamycin)",N/A,04B Walk-in,Term,5/8/2026,4/5/2027,"5,640.00",0,"5,640.00",Approved,Active
+DEP049466,DON015029,,N/A,Checked in 1,Term,5/8/2026,1/20/2027,"5,640.00",0,"5,640.00",Approved,Active
+DEP049449,DON014506,,N/A,04B Walk-in,Term,5/8/2026,4/5/2027,"5,640.00",0,"5,640.00",Approved,Active
 DEP049452,DON013648,,N/A,15C Walk-in (mini),Term,5/8/2026,12/7/2026,"5,680.00",0,"5,680.00",Approved,Active
-DEP049454,DON014506,"DO NOT USE: 10/20-11/21/2025 (Oxycodone, Nifedipine, Clarithromycin); 12/22/25-1/2/26 (clindamycin); 1/14-1/20/26 (amoxicillin); 2/8-2/19/26 (Clindamycin)",N/A,04B Walk-in,Term,5/8/2026,4/6/2027,"5,710.00",0,"5,710.00",Approved,Active
-DEP049446,DON014506,"DO NOT USE: 10/20-11/21/2025 (Oxycodone, Nifedipine, Clarithromycin); 12/22/25-1/2/26 (clindamycin); 1/14-1/20/26 (amoxicillin); 2/8-2/19/26 (Clindamycin)",N/A,04G Walk-in,Term,5/8/2026,4/8/2027,"5,710.00",0,"5,710.00",Approved,Active
+DEP049454,DON014506,,N/A,04B Walk-in,Term,5/8/2026,4/6/2027,"5,710.00",0,"5,710.00",Approved,Active
+DEP049446,DON014506,,N/A,04G Walk-in,Term,5/8/2026,4/8/2027,"5,710.00",0,"5,710.00",Approved,Active
 DEP049433,DON015088,,N/A,01G Walk-in,Term,5/8/2026,3/12/2027,"5,790.00",0,"5,790.00",Approved,Active
 DEP049453,DON013648,,N/A,15C Walk-in (mini),Term,5/8/2026,12/7/2026,"5,890.00",0,"5,890.00",Approved,Active
 DEP049476,DON015025,,N/A,01G Walk-in,Term,5/8/2026,3/20/2027,"5,980.00",0,"5,980.00",Approved,Active
-DEP049435,DON015059,DO NOT USE: 8/8-8/15/25 (medications typically used during labor and delivery),N/A,N/A,Term,5/8/2026,11/3/2026,0,"6,230.00","6,230.00",Approved,Used
-DEP049455,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,Checked in 1,Term,5/8/2026,12/31/2026,"6,250.00",0,"6,250.00",Approved,Active
-DEP049439,DON014916,DO NOT USE: 9/27-9/29/25 (Hydralazine),N/A,15C Walk-in (mini),Term,5/8/2026,12/17/2026,"6,370.00",0,"6,370.00",Approved,Active
+DEP049435,DON015059,,N/A,N/A,Term,5/8/2026,11/3/2026,0,"6,230.00","6,230.00",Approved,Used
+DEP049455,DON015029,,N/A,Checked in 1,Term,5/8/2026,12/31/2026,"6,250.00",0,"6,250.00",Approved,Active
+DEP049439,DON014916,,N/A,15C Walk-in (mini),Term,5/8/2026,12/17/2026,"6,370.00",0,"6,370.00",Approved,Active
 DEP049471,DON014861,,N/A,N/A,Term,5/8/2026,4/13/2027,0,"6,490.00","6,490.00",Approved,Disposed
 DEP049472,DON014861,,N/A,N/A,Term,5/8/2026,4/14/2027,0,"6,790.00","6,790.00",Approved,Disposed
 DEP049468,DON014867,,N/A,Checked in 1,Term,5/8/2026,4/14/2027,"6,840.00",0,"6,840.00",Approved,Active
 DEP049470,DON014861,,N/A,N/A,Term,5/8/2026,4/14/2027,0,"6,840.00","6,840.00",Approved,Disposed
 DEP049469,DON014861,,N/A,N/A,Term,5/8/2026,4/14/2027,0,"6,980.00","6,980.00",Approved,Disposed
-DEP049462,DON015029,DO NOT USE: 7/4-7/5/25 (General anesthesia); 11/13-11/24/25 (amoxicillin),N/A,Checked in 1,Term,5/8/2026,1/30/2027,"7,340.00",0,"7,340.00",Approved,Active
-DEP049488,DON014033,DO NOT USE: 5/14-9/9/25 (Labetalol),N/A,N/A,Unknown,5/11/2026,5/11/2027,0,"4,500.00","4,500.00",Approved,Disposed
-DEP049489,DON014154,"DO NOT USE: 9/24-10/4/25 (Medications typically used for labor and delivery, TXA, Oxycodone), 12/10-12/19/25 (General anesthesia, Tamsulosin, Keflex)",N/A,N/A,Unknown,5/11/2026,5/11/2027,0,"4,500.00","4,500.00",Approved,Disposed
+DEP049462,DON015029,,N/A,Checked in 1,Term,5/8/2026,1/30/2027,"7,340.00",0,"7,340.00",Approved,Active
+DEP049488,DON014033,,N/A,N/A,Unknown,5/11/2026,5/11/2027,0,"4,500.00","4,500.00",Approved,Disposed
+DEP049489,DON014154,,N/A,N/A,Unknown,5/11/2026,5/11/2027,0,"4,500.00","4,500.00",Approved,Disposed
 DEP049517,DON014861,,N/A,04F Walk-in,Term,5/12/2026,4/13/2027,"2,000.00",0,"2,000.00",Approved,Active
 DEP049535,DON014805,,N/A,11B Walk-in,Term,5/12/2026,2/26/2027,"3,060.00",0,"3,060.00",Approved,Active
-DEP049534,DON014217,DO NOT USE: 6/26-7/2/25 (Oxycodone); 2/9-2/17/26 (Amoxicillin + Clavulanate),N/A,Checked in 1,Term,5/12/2026,10/9/2026,"3,630.00",0,"3,630.00",Approved,Active
-DEP049530,DON014593,DO NOT USE: 11/27-11/29/25 (Labetalol),N/A,11B Walk-in,Term,5/12/2026,12/3/2026,"4,020.00",0,"4,020.00",Approved,Active
-DEP049538,DON014349,DO NOT USE: 4/25-6/1/25 (Labetalol),N/A,03C Walk-in,Term,5/12/2026,10/18/2026,"4,180.00",0,"4,180.00",Approved,Active
+DEP049534,DON014217,,N/A,Checked in 1,Term,5/12/2026,10/9/2026,"3,630.00",0,"3,630.00",Approved,Active
+DEP049530,DON014593,,N/A,11B Walk-in,Term,5/12/2026,12/3/2026,"4,020.00",0,"4,020.00",Approved,Active
+DEP049538,DON014349,,N/A,03C Walk-in,Term,5/12/2026,10/18/2026,"4,180.00",0,"4,180.00",Approved,Active
 DEP049539,DON014849,,N/A,Checked in 1,Term,5/12/2026,1/19/2027,"4,460.00",0,"4,460.00",Approved,Active
 DEP049518,DON014861,,N/A,02A Walk-in,Term,5/12/2026,9/17/2026,"4,560.00",0,"4,560.00",Approved,Active
-DEP049546,DON012083,"DO NOT USE: 5/24-9/3/2024 (labetalol, gabapentin, oxycodone)",N/A,Checked in 1,Term,5/12/2026,10/6/2026,"5,060.00",0,"5,060.00",Approved,Active
+DEP049546,DON012083,,N/A,Checked in 1,Term,5/12/2026,10/6/2026,"5,060.00",0,"5,060.00",Approved,Active
 DEP049537,DON015071,,N/A,04F Walk-in,Term,5/12/2026,4/9/2027,"5,250.00",0,"5,250.00",Approved,Active
-DEP049540,DON014515,DO NOT USE: 9/16-9/30/25 (Labetalol); 10/15-10/26/25 (Cephalexin),N/A,Checked in 1,Term,5/12/2026,1/27/2027,"5,650.00",0,"5,650.00",Approved,Active
+DEP049540,DON014515,,N/A,Checked in 1,Term,5/12/2026,1/27/2027,"5,650.00",0,"5,650.00",Approved,Active
 DEP049542,DON014895,,N/A,11B Walk-in,Term,5/12/2026,2/7/2027,"6,130.00",0,"6,130.00",Approved,Active
 DEP049544,DON014895,,N/A,11B Walk-in,Term,5/12/2026,2/8/2027,"6,190.00",0,"6,190.00",Approved,Active
 DEP049511,DON014861,,N/A,02E Walk-in,Term,5/12/2026,9/17/2026,"6,450.00",0,"6,450.00",Approved,Active
@@ -187,58 +187,58 @@ DEP049513,DON014861,,N/A,14E Walk-in (mini),Term,5/12/2026,9/17/2026,"7,020.00",
 DEP049504,DON014861,,N/A,N/A,Term,5/12/2026,12/1/2026,0,"7,020.00","7,020.00",Approved,Disposed
 DEP049512,DON014861,,N/A,02E Walk-in,Term,5/12/2026,9/17/2026,"7,180.00",0,"7,180.00",Approved,Active
 DEP049505,DON014861,,N/A,N/A,Term,5/12/2026,12/1/2026,0,"7,180.00","7,180.00",Approved,Disposed
-DEP049553,DON013532,DO NOT USE: 4/16-4/23/2025 (medications typically used during labor and delivery) DO NOT USE: 7/3-7/7/25 (Dicloxacillin),N/A,02A Walk-in,Term,5/13/2026,9/17/2026,"1,510.00",0,"1,510.00",Approved,Active
-DEP049554,DON012939,DO NOT USE: 12/14-12/21/2024 (medications typically used during labor and delivery),N/A,07D Walk-in,Term,5/13/2026,12/29/2026,"1,570.00",0,"1,570.00",Approved,Active
-DEP049550,DON011521,"DO NOT USE: 7/2-7/10/2024 (dicloxacillin); 12/10-12/13/24 (anesthesia, oxycodone)",N/A,N/A,Term,5/13/2026,8/4/2026,0,"1,640.00","1,640.00",Approved,Used
+DEP049553,DON013532,,N/A,02A Walk-in,Term,5/13/2026,9/17/2026,"1,510.00",0,"1,510.00",Approved,Active
+DEP049554,DON012939,,N/A,07D Walk-in,Term,5/13/2026,12/29/2026,"1,570.00",0,"1,570.00",Approved,Active
+DEP049550,DON011521,,N/A,N/A,Term,5/13/2026,8/4/2026,0,"1,640.00","1,640.00",Approved,Used
 DEP049568,DON015131,,N/A,11B Walk-in,Term,5/13/2026,2/28/2027,"2,490.00",0,"2,490.00",Approved,Active
-DEP049572,DON014413,"DO NOT USE: 10/9-10/19/25 (medications typically used during labor and delivery, oxycodone)",N/A,04F Walk-in,Term,5/13/2026,4/14/2027,"3,050.00",0,"3,050.00",Approved,Active
-DEP049566,DON012083,"DO NOT USE: 5/24-9/3/2024 (labetalol, gabapentin, oxycodone)",N/A,14E Walk-in (mini),Term,5/13/2026,12/30/2026,"3,250.00",0,"3,250.00",Approved,Active
+DEP049572,DON014413,,N/A,04F Walk-in,Term,5/13/2026,4/14/2027,"3,050.00",0,"3,050.00",Approved,Active
+DEP049566,DON012083,,N/A,14E Walk-in (mini),Term,5/13/2026,12/30/2026,"3,250.00",0,"3,250.00",Approved,Active
 DEP049575,DON014979,,N/A,Checked in 1,Term,5/13/2026,1/25/2027,"3,250.00",0,"3,250.00",Approved,Active
 DEP049552,DON015024,,N/A,06D Walk-in,Term,5/13/2026,11/22/2026,"3,430.00",0,"3,430.00",Approved,Active
 DEP049581,DON014726,,N/A,01F Walk-in,Term,5/13/2026,3/20/2027,"3,920.00",0,"3,920.00",Approved,Active
 DEP049576,DON015142,,N/A,04F Walk-in,Term,5/13/2026,4/15/2027,"4,920.00",0,"4,920.00",Approved,Active
-DEP049569,DON014939,"DO NOT USE: 2/15-3/11/26 (oxycodone, celecoxib)",N/A,04F Walk-in,Term,5/13/2026,4/10/2027,"5,500.00",0,"5,500.00",Approved,Active
+DEP049569,DON014939,,N/A,04F Walk-in,Term,5/13/2026,4/10/2027,"5,500.00",0,"5,500.00",Approved,Active
 DEP049573,DON014605,,N/A,Checked in 1,Term,5/13/2026,12/30/2026,"5,620.00",0,"5,620.00",Approved,Active
-DEP049571,DON014413,"DO NOT USE: 10/9-10/19/25 (medications typically used during labor and delivery, oxycodone)",N/A,04F Walk-in,Term,5/13/2026,4/11/2027,"5,920.00",0,"5,920.00",Approved,Active
+DEP049571,DON014413,,N/A,04F Walk-in,Term,5/13/2026,4/11/2027,"5,920.00",0,"5,920.00",Approved,Active
 DEP049578,DON014726,,N/A,Checked in 1,Term,5/13/2026,3/19/2027,"5,960.00",0,"5,960.00",Approved,Active
 DEP049567,DON015131,,N/A,Checked in 1,Term,5/13/2026,2/27/2027,"6,030.00",0,"6,030.00",Approved,Active
-DEP049551,DON014533,DO NOT USE: 9/2-9/3/25 (penicillin),N/A,15B Walk-in (mini),Term,5/13/2026,12/4/2026,"6,080.00",0,"6,080.00",Approved,Active
+DEP049551,DON014533,,N/A,15B Walk-in (mini),Term,5/13/2026,12/4/2026,"6,080.00",0,"6,080.00",Approved,Active
 DEP049574,DON014979,,N/A,Checked in 1,Term,5/13/2026,1/24/2027,"6,130.00",0,"6,130.00",Approved,Active
 DEP049579,DON014726,,N/A,01F Walk-in,Term,5/13/2026,3/20/2027,"6,150.00",0,"6,150.00",Approved,Active
-DEP049570,DON014413,"DO NOT USE: 10/9-10/19/25 (medications typically used during labor and delivery, oxycodone)",N/A,01F Walk-in,Term,5/13/2026,3/18/2027,"6,280.00",0,"6,280.00",Approved,Active
+DEP049570,DON014413,,N/A,01F Walk-in,Term,5/13/2026,3/18/2027,"6,280.00",0,"6,280.00",Approved,Active
 DEP049577,DON015131,,N/A,04E Walk-in,Term,5/13/2026,4/21/2027,"7,060.00",0,"7,060.00",Approved,Active
-DEP049605,DON015062,"DO NOT USE: 1/15-4/2/26 (Cephalexin, alcohol)",N/A,04F Walk-in,Term,5/14/2026,4/3/2027,"2,420.00",0,"2,420.00",Approved,Active
+DEP049605,DON015062,,N/A,04F Walk-in,Term,5/14/2026,4/3/2027,"2,420.00",0,"2,420.00",Approved,Active
 DEP049602,DON015117,,N/A,01F Walk-in,Term,5/14/2026,3/8/2027,"3,060.00",0,"3,060.00",Approved,Active
-DEP049632,DON015118,"DO NOT USE: 12/2-12/28/25 (Medications typically used during labor and delivery, Oxycodone, Celecoxib, Sulfamethoxazole + Trimethoprim)",N/A,Checked in 1,Term,5/14/2026,2/18/2027,"3,120.00",0,"3,120.00",Approved,Active
+DEP049632,DON015118,,N/A,Checked in 1,Term,5/14/2026,2/18/2027,"3,120.00",0,"3,120.00",Approved,Active
 DEP049594,DON013826,,N/A,Checked in 1,Term,5/14/2026,1/16/2027,"4,480.00",0,"4,480.00",Approved,Active
 DEP049626,DON014589,,N/A,04G Walk-in,Term,5/14/2026,4/1/2027,"4,490.00",0,"4,490.00",Approved,Active
-DEP049631,DON015118,"DO NOT USE: 12/2-12/28/25 (Medications typically used during labor and delivery, Oxycodone, Celecoxib, Sulfamethoxazole + Trimethoprim)",N/A,Checked in 1,Term,5/14/2026,2/18/2027,"4,550.00",0,"4,550.00",Approved,Active
-DEP049595,DON015041,DO NOT USE: 3/14-3/31/26 (Alcohol),N/A,01F Walk-in,Term,5/14/2026,3/4/2027,"4,760.00",0,"4,760.00",Approved,Active
+DEP049631,DON015118,,N/A,Checked in 1,Term,5/14/2026,2/18/2027,"4,550.00",0,"4,550.00",Approved,Active
+DEP049595,DON015041,,N/A,01F Walk-in,Term,5/14/2026,3/4/2027,"4,760.00",0,"4,760.00",Approved,Active
 DEP049593,DON013826,,N/A,Checked in 1,Term,5/14/2026,1/16/2027,"4,790.00",0,"4,790.00",Approved,Active
-DEP049601,DON015080,DO NOT USE: 1/15/26 (Nitrofurantoin),N/A,01F Walk-in,Term,5/14/2026,3/13/2027,"4,800.00",0,"4,800.00",Approved,Active
-DEP049592,DON014645,"DO NOT USE: 12/24-12/31/25 (Medication typically used for labor and delivery, oxycodone); 2/7-2/15/26 (cephalexin)",N/A,01F Walk-in,Term,5/14/2026,3/5/2027,"5,390.00",0,"5,390.00",Approved,Active
+DEP049601,DON015080,,N/A,01F Walk-in,Term,5/14/2026,3/13/2027,"4,800.00",0,"4,800.00",Approved,Active
+DEP049592,DON014645,,N/A,01F Walk-in,Term,5/14/2026,3/5/2027,"5,390.00",0,"5,390.00",Approved,Active
 DEP049627,DON014706,,N/A,Checked in 1,Term,5/14/2026,4/18/2027,"5,420.00",0,"5,420.00",Approved,Active
 DEP049618,DON014989,,N/A,Checked in 1,Term,5/14/2026,2/1/2027,"5,440.00",0,"5,440.00",Approved,Active
 DEP049629,DON014706,,N/A,04G Walk-in,Term,5/14/2026,4/30/2027,"5,440.00",0,"5,440.00",Approved,Active
-DEP049591,DON014645,"DO NOT USE: 12/24-12/31/25 (Medication typically used for labor and delivery, oxycodone); 2/7-2/15/26 (cephalexin)",N/A,01F Walk-in,Term,5/14/2026,3/5/2027,"5,710.00",0,"5,710.00",Approved,Active
-DEP049600,DON015032,"DO NOT USE: 9/11-9/18/25 (Medications associated with labor and delivery, oxycodone)",N/A,01F Walk-in,Term,5/14/2026,3/15/2027,"5,780.00",0,"5,780.00",Approved,Active
+DEP049591,DON014645,,N/A,01F Walk-in,Term,5/14/2026,3/5/2027,"5,710.00",0,"5,710.00",Approved,Active
+DEP049600,DON015032,,N/A,01F Walk-in,Term,5/14/2026,3/15/2027,"5,780.00",0,"5,780.00",Approved,Active
 DEP049625,DON014589,,N/A,01F Walk-in,Term,5/14/2026,3/30/2027,"5,950.00",0,"5,950.00",Approved,Active
-DEP049604,DON015062,"DO NOT USE: 1/15-4/2/26 (Cephalexin, alcohol)",N/A,04G Walk-in,Term,5/14/2026,4/3/2027,"6,000.00",0,"6,000.00",Approved,Active
-DEP049590,DON014413,"DO NOT USE: 10/9-10/19/25 (medications typically used during labor and delivery, oxycodone)",N/A,04G Walk-in,Term,5/14/2026,4/3/2027,"6,060.00",0,"6,060.00",Approved,Active
-DEP049630,DON015118,"DO NOT USE: 12/2-12/28/25 (Medications typically used during labor and delivery, Oxycodone, Celecoxib, Sulfamethoxazole + Trimethoprim)",N/A,Checked in 1,Term,5/14/2026,2/26/2027,"6,120.00",0,"6,120.00",Approved,Active
-DEP049633,DON014161,DO NOT USE: 3/25-4/6/26 (Doxycycline),N/A,01F Walk-in,Term,5/14/2026,3/12/2027,"6,180.00",0,"6,180.00",Approved,Active
+DEP049604,DON015062,,N/A,04G Walk-in,Term,5/14/2026,4/3/2027,"6,000.00",0,"6,000.00",Approved,Active
+DEP049590,DON014413,,N/A,04G Walk-in,Term,5/14/2026,4/3/2027,"6,060.00",0,"6,060.00",Approved,Active
+DEP049630,DON015118,,N/A,Checked in 1,Term,5/14/2026,2/26/2027,"6,120.00",0,"6,120.00",Approved,Active
+DEP049633,DON014161,,N/A,01F Walk-in,Term,5/14/2026,3/12/2027,"6,180.00",0,"6,180.00",Approved,Active
 DEP049624,DON014589,,N/A,04G Walk-in,Term,5/14/2026,4/9/2027,"6,400.00",0,"6,400.00",Approved,Active
 DEP049603,DON014922,,N/A,Checked in 1,Term,5/14/2026,2/20/2027,"6,420.00",0,"6,420.00",Approved,Active
 DEP049616,DON014989,,N/A,Checked in 1,Term,5/14/2026,2/1/2027,"6,580.00",0,"6,580.00",Approved,Active
 DEP049620,DON014989,,N/A,Checked in 1,Term,5/14/2026,2/1/2027,"6,720.00",0,"6,720.00",Approved,Active
-DEP049589,DON014413,"DO NOT USE: 10/9-10/19/25 (medications typically used during labor and delivery, oxycodone)",N/A,04G Walk-in,Term,5/14/2026,4/3/2027,"6,810.00",0,"6,810.00",Approved,Active
+DEP049589,DON014413,,N/A,04G Walk-in,Term,5/14/2026,4/3/2027,"6,810.00",0,"6,810.00",Approved,Active
 DEP049585,DON014726,,N/A,01F Walk-in,Term,5/14/2026,3/8/2027,"6,910.00",0,"6,910.00",Approved,Active
 DEP049621,DON014989,,N/A,Checked in 1,Term,5/14/2026,2/1/2027,"6,940.00",0,"6,940.00",Approved,Active
 DEP049588,DON014726,,N/A,01G Walk-in,Term,5/14/2026,3/8/2027,"7,460.00",0,"7,460.00",Approved,Active
 DEP049586,DON014726,,N/A,01F Walk-in,Term,5/14/2026,3/8/2027,"7,550.00",0,"7,550.00",Approved,Active
 DEP049587,DON014726,,N/A,01G Walk-in,Term,5/14/2026,3/8/2027,"7,670.00",0,"7,670.00",Approved,Active
 DEP049623,DON014989,,N/A,Checked in 1,Term,5/14/2026,2/1/2027,"8,390.00",0,"8,390.00",Approved,Active
-DEP049658,DON014161,DO NOT USE: 3/25-4/6/26 (Doxycycline),N/A,N/A,Term,5/15/2026,5/15/2027,0,840,840,Approved,Disposed
+DEP049658,DON014161,,N/A,N/A,Term,5/15/2026,5/15/2027,0,840,840,Approved,Disposed
 DEP049666,DON013727,,N/A,14E Walk-in (mini),Term,5/15/2026,12/23/2026,"1,160.00",0,"1,160.00",Approved,Active
 DEP049665,DON014246,,N/A,15A Walk-in (mini),Term,5/15/2026,11/16/2026,"1,340.00",0,"1,340.00",Approved,Active
 DEP049659,DON015087,,N/A,Checked in 1,Term,5/15/2026,1/20/2027,"1,840.00",0,"1,840.00",Approved,Active
@@ -247,21 +247,21 @@ DEP049681,DON015023,,N/A,Checked in 1,Term,5/15/2026,10/25/2026,"1,870.00",0,"1,
 DEP049692,DON014477,,N/A,Checked in 1,Term,5/15/2026,1/6/2027,"2,480.00",0,"2,480.00",Approved,Active
 DEP049644,DON015168,,N/A,04B Walk-in,Term,5/15/2026,4/15/2027,"2,710.00",0,"2,710.00",Approved,Active
 DEP049688,DON015103,,N/A,Checked in 1,Term,5/15/2026,1/30/2027,"2,830.00",0,"2,830.00",Approved,Active
-DEP049664,DON015113,DO NOT USE: 2/24-3/10/26 (Dicloxacillin),N/A,04F Walk-in,Term,5/15/2026,4/14/2027,"2,880.00",0,"2,880.00",Approved,Active
-DEP049663,DON015156,"DO NOT USE: 1/30-2/6/26 (Medications typically used for labor and delivery, Oxycodone)",N/A,Checked in 1,Term,5/15/2026,2/10/2027,"2,900.00",0,"2,900.00",Approved,Active
-DEP049650,DON015179,DO NOT USE: 3/20-3/23/2026 (Oxycodone),N/A,Checked in 1,Term,5/15/2026,2/15/2027,"3,240.00",0,"3,240.00",Approved,Active
-DEP049671,DON015145,"DO NOT USE: 12/28/25-3/31/26 (Valacyclovir, oxycodone, Alcohol)",N/A,Checked in 1,Term,5/15/2026,4/2/2027,"3,450.00",0,"3,450.00",Approved,Active
-DEP049662,DON014908,DO NOT USE: 2/26-2/27/26 (Midazolam),N/A,Checked in 1,Term,5/15/2026,3/11/2027,"3,730.00",0,"3,730.00",Approved,Active
-DEP049643,DON014435,"DO NOT USE: 8/9-8/16/25 (Medications typically used during labor and delivery, Penicillin); 11/18/25 (alcohol)",N/A,Checked in 1,Term,5/15/2026,2/27/2027,"3,840.00",0,"3,840.00",Approved,Active
-DEP049640,DON015146,DO NOT USE: 3/13-3/20/26 (Medications typically used in labor and delivery),N/A,Checked in 1,Term,5/15/2026,3/22/2027,"4,050.00",0,"4,050.00",Approved,Active
-DEP049675,DON015049,"DO NOT USE: 1/13-2/2/26 (Medications used for labor and delivery, Oxycodone)",N/A,Checked in 1,Term,5/15/2026,2/28/2027,"4,070.00",0,"4,070.00",Approved,Active
-DEP049655,DON014161,DO NOT USE: 3/25-4/6/26 (Doxycycline),N/A,Checked in 1,Term,5/15/2026,3/13/2027,"4,450.00",0,"4,450.00",Approved,Active
+DEP049664,DON015113,,N/A,04F Walk-in,Term,5/15/2026,4/14/2027,"2,880.00",0,"2,880.00",Approved,Active
+DEP049663,DON015156,,N/A,Checked in 1,Term,5/15/2026,2/10/2027,"2,900.00",0,"2,900.00",Approved,Active
+DEP049650,DON015179,,N/A,Checked in 1,Term,5/15/2026,2/15/2027,"3,240.00",0,"3,240.00",Approved,Active
+DEP049671,DON015145,,N/A,Checked in 1,Term,5/15/2026,4/2/2027,"3,450.00",0,"3,450.00",Approved,Active
+DEP049662,DON014908,,N/A,Checked in 1,Term,5/15/2026,3/11/2027,"3,730.00",0,"3,730.00",Approved,Active
+DEP049643,DON014435,,N/A,Checked in 1,Term,5/15/2026,2/27/2027,"3,840.00",0,"3,840.00",Approved,Active
+DEP049640,DON015146,,N/A,Checked in 1,Term,5/15/2026,3/22/2027,"4,050.00",0,"4,050.00",Approved,Active
+DEP049675,DON015049,,N/A,Checked in 1,Term,5/15/2026,2/28/2027,"4,070.00",0,"4,070.00",Approved,Active
+DEP049655,DON014161,,N/A,Checked in 1,Term,5/15/2026,3/13/2027,"4,450.00",0,"4,450.00",Approved,Active
 DEP049670,DON014987,,N/A,Checked in 1,Term,5/15/2026,1/3/2027,"4,470.00",0,"4,470.00",Approved,Active
-DEP049641,DON014435,"DO NOT USE: 8/9-8/16/25 (Medications typically used during labor and delivery, Penicillin); 11/18/25 (alcohol)",N/A,Checked in 1,Term,5/15/2026,3/2/2027,"4,570.00",0,"4,570.00",Approved,Active
-DEP049672,DON015049,"DO NOT USE: 1/13-2/2/26 (Medications used for labor and delivery, Oxycodone)",N/A,Checked in 1,Term,5/15/2026,2/8/2027,"4,580.00",0,"4,580.00",Approved,Active
-DEP049660,DON013994,"DO NOT USE: 7/24-9/12/25 (Medications typically used for labor and delivery, Oxycodone, Cefpodoxime, Placenta capsules); 2/20-3/10/26 (Azithromycin)",N/A,04E Walk-in,Term,5/15/2026,4/25/2027,"4,640.00",0,"4,640.00",Approved,Active
-DEP049648,DON015086,"DO NOT USE: 1/27-2/7/26 (medications typically used during labor and delivery, Oxycodone)",N/A,Checked in 1,Term,5/15/2026,2/8/2027,"4,770.00",0,"4,770.00",Approved,Active
-DEP049646,DON015012,Okay to USE: All milk pumped 2025 or 2026,N/A,01E Walk-in,Term,5/15/2026,9/10/2026,"5,040.00",0,"5,040.00",Approved,Active
+DEP049641,DON014435,,N/A,Checked in 1,Term,5/15/2026,3/2/2027,"4,570.00",0,"4,570.00",Approved,Active
+DEP049672,DON015049,,N/A,Checked in 1,Term,5/15/2026,2/8/2027,"4,580.00",0,"4,580.00",Approved,Active
+DEP049660,DON013994,,N/A,04E Walk-in,Term,5/15/2026,4/25/2027,"4,640.00",0,"4,640.00",Approved,Active
+DEP049648,DON015086,,N/A,Checked in 1,Term,5/15/2026,2/8/2027,"4,770.00",0,"4,770.00",Approved,Active
+DEP049646,DON015012,,N/A,01E Walk-in,Term,5/15/2026,9/10/2026,"5,040.00",0,"5,040.00",Approved,Active
 DEP049676,DON015023,,N/A,N/A,Term,5/15/2026,10/25/2026,0,"5,300.00","5,300.00",Approved,Used
 DEP049673,DON014987,,N/A,Checked in 1,Term,5/15/2026,1/3/2027,"5,520.00",0,"5,520.00",Approved,Active
 DEP049687,DON015031,,N/A,14E Walk-in (mini),Term,5/15/2026,12/30/2026,"5,580.00",0,"5,580.00",Approved,Active
@@ -269,83 +269,83 @@ DEP049690,DON014477,,N/A,Checked in 1,Term,5/15/2026,1/6/2027,"5,600.00",0,"5,60
 DEP049695,DON014477,,N/A,14E Walk-in (mini),Term,5/15/2026,12/4/2026,"5,630.00",0,"5,630.00",Approved,Active
 DEP049694,DON014477,,N/A,14E Walk-in (mini),Term,5/15/2026,12/3/2026,"6,270.00",0,"6,270.00",Approved,Active
 DEP049689,DON015103,,N/A,Checked in 1,Term,5/15/2026,1/30/2027,"6,570.00",0,"6,570.00",Approved,Active
-DEP049651,DON015118,"DO NOT USE: 12/2-12/28/25 (Medications typically used during labor and delivery, Oxycodone, Celecoxib, Sulfamethoxazole + Trimethoprim)",N/A,Checked in 1,Term,5/15/2026,2/7/2027,"6,600.00",0,"6,600.00",Approved,Active
+DEP049651,DON015118,,N/A,Checked in 1,Term,5/15/2026,2/7/2027,"6,600.00",0,"6,600.00",Approved,Active
 DEP049667,DON014987,,N/A,Checked in 1,Term,5/15/2026,1/18/2027,"6,890.00",0,"6,890.00",Approved,Active
-DEP049668,DON015049,"DO NOT USE: 1/13-2/2/26 (Medications used for labor and delivery, Oxycodone)",N/A,Checked in 1,Term,5/15/2026,2/15/2027,"6,960.00",0,"6,960.00",Approved,Active
-DEP049653,DON015077,DO NOT USE: 1/5-1/15/26 (Sulfamethoxazole + Trimethoprim),N/A,N/A,Term,5/15/2026,11/8/2026,0,"7,210.00","7,210.00",Approved,Used
-DEP049649,DON015118,"DO NOT USE: 12/2-12/28/25 (Medications typically used during labor and delivery, Oxycodone, Celecoxib, Sulfamethoxazole + Trimethoprim)",N/A,Checked in 1,Term,5/15/2026,2/15/2027,"7,290.00",0,"7,290.00",Approved,Active
-DEP049669,DON014906,DO NOT USE: 1/7-1/14/26 (Medications typically used for labor and delivery); 1/20-1/26/26 (Clindamycin),N/A,Checked in 1,Term,5/15/2026,3/11/2027,"7,350.00",0,"7,350.00",Approved,Active
-DEP049642,DON014940,DO NOT USE: 1/17-3/10/26 (Scalded),N/A,04E Walk-in,Term,5/15/2026,4/20/2027,"8,220.00",0,"8,220.00",Approved,Active
-DEP049718,DON014870,DO NOT USE: 10/10-10/16/25 (amoxicillin),N/A,14D Walk-in (mini),Term,5/18/2026,11/14/2026,"1,010.00",0,"1,010.00",Approved,Active
-DEP049733,DON015127,"DO NOT USE: 3/7-3/15/26 (medications typically used during labor and delivery, Oxycodone); 4/6-4/14/26 (Alcohol)",N/A,04B Walk-in,Term,5/18/2026,4/17/2027,"1,950.00",0,"1,950.00",Approved,Active
-DEP049732,DON014794,"DO NOT USE: 11/10-12/1/2025 (Medications typically used during labor and delivery, Nifedipine, Lisinopril)",N/A,04B Walk-in,Term,5/18/2026,4/4/2027,"3,020.00",0,"3,020.00",Approved,Active
-DEP049734,DON014907,DO NOT USE: 2/25/26-onwards (Adderall),N/A,Checked in 1,Term,5/18/2026,1/9/2027,"3,260.00",0,"3,260.00",Approved,Active
-DEP049723,DON015146,DO NOT USE: 3/13-3/20/26 (Medications typically used in labor and delivery),N/A,Checked in 1,Term,5/18/2026,3/23/2027,"3,280.00",0,"3,280.00",Approved,Active
-DEP049741,DON015030,DO NOT USE: 7/20-7/27/25 (medications typically used during labor and delivery),N/A,14E Walk-in (mini),Term,5/18/2026,12/23/2026,"3,400.00",0,"3,400.00",Approved,Active
+DEP049668,DON015049,,N/A,Checked in 1,Term,5/15/2026,2/15/2027,"6,960.00",0,"6,960.00",Approved,Active
+DEP049653,DON015077,,N/A,N/A,Term,5/15/2026,11/8/2026,0,"7,210.00","7,210.00",Approved,Used
+DEP049649,DON015118,,N/A,Checked in 1,Term,5/15/2026,2/15/2027,"7,290.00",0,"7,290.00",Approved,Active
+DEP049669,DON014906,,N/A,Checked in 1,Term,5/15/2026,3/11/2027,"7,350.00",0,"7,350.00",Approved,Active
+DEP049642,DON014940,,N/A,04E Walk-in,Term,5/15/2026,4/20/2027,"8,220.00",0,"8,220.00",Approved,Active
+DEP049718,DON014870,,N/A,14D Walk-in (mini),Term,5/18/2026,11/14/2026,"1,010.00",0,"1,010.00",Approved,Active
+DEP049733,DON015127,,N/A,04B Walk-in,Term,5/18/2026,4/17/2027,"1,950.00",0,"1,950.00",Approved,Active
+DEP049732,DON014794,,N/A,04B Walk-in,Term,5/18/2026,4/4/2027,"3,020.00",0,"3,020.00",Approved,Active
+DEP049734,DON014907,,N/A,Checked in 1,Term,5/18/2026,1/9/2027,"3,260.00",0,"3,260.00",Approved,Active
+DEP049723,DON015146,,N/A,Checked in 1,Term,5/18/2026,3/23/2027,"3,280.00",0,"3,280.00",Approved,Active
+DEP049741,DON015030,,N/A,14E Walk-in (mini),Term,5/18/2026,12/23/2026,"3,400.00",0,"3,400.00",Approved,Active
 DEP049738,DON014713,,N/A,Checked in 2,Term,5/18/2026,2/22/2027,"3,610.00",0,"3,610.00",Approved,Active
-DEP049707,DON015018,"DO NOT USE: 10/23-11/2/25 (Medications typically used for labor and delivery, Gabapentin, Oxycodone)",N/A,14D Walk-in (mini),Term,5/18/2026,11/15/2026,"3,670.00",0,"3,670.00",Approved,Active
+DEP049707,DON015018,,N/A,14D Walk-in (mini),Term,5/18/2026,11/15/2026,"3,670.00",0,"3,670.00",Approved,Active
 DEP049739,DON015162,,N/A,Checked in 1,Term,5/18/2026,3/11/2027,"3,970.00",0,"3,970.00",Approved,Active
 DEP049713,DON014318,,N/A,N/A,Term,5/18/2026,8/26/2026,0,"4,090.00","4,090.00",Approved,Used
-DEP049735,DON015011,DO NOT USE: 1/27-2/3/26 (Medications used for labor and delivery),N/A,Checked in 1,Term,5/18/2026,3/23/2027,"4,130.00",0,"4,130.00",Approved,Active
+DEP049735,DON015011,,N/A,Checked in 1,Term,5/18/2026,3/23/2027,"4,130.00",0,"4,130.00",Approved,Active
 DEP049721,DON014803,,N/A,Checked in 1,Term,5/18/2026,3/18/2027,"4,180.00",0,"4,180.00",Approved,Active
 DEP049719,DON014914,,N/A,Checked in 1,Term,5/18/2026,1/19/2027,"4,370.00",0,"4,370.00",Approved,Active
 DEP049710,DON014318,,N/A,12E Walk-in,Term,5/18/2026,8/26/2026,"4,570.00",0,"4,570.00",Approved,Active
 DEP049748,DON014477,,N/A,12E Walk-in,Term,5/18/2026,8/26/2026,"4,670.00",0,"4,670.00",Approved,Active
 DEP049747,DON014477,,N/A,Checked in 1,Term,5/18/2026,2/1/2027,"4,740.00",0,"4,740.00",Approved,Active
 DEP049717,DON015043,,N/A,Checked in 1,Term,5/18/2026,1/7/2027,"4,760.00",0,"4,760.00",Approved,Active
-DEP049715,DON014860,DO NOT USE: 1/30-2/9/2026 (Medications Typically used during labor and delivery; Oxycodone),N/A,04B Walk-in,Term,5/18/2026,4/6/2027,"4,840.00",0,"4,840.00",Approved,Active
-DEP049742,DON014906,DO NOT USE: 1/7-1/14/26 (Medications typically used for labor and delivery); 1/20-1/26/26 (Clindamycin),N/A,Checked in 1,Term,5/18/2026,3/17/2027,"5,750.00",0,"5,750.00",Approved,Active
-DEP049716,DON014332,DO NOT USE: 5/19-7/5/25 (Labetalol),N/A,04B Walk-in,Term,5/18/2026,4/18/2027,"5,800.00",0,"5,800.00",Approved,Active
-DEP049714,DON014860,DO NOT USE: 1/30-2/9/2026 (Medications Typically used during labor and delivery; Oxycodone),N/A,04B Walk-in,Term,5/18/2026,4/6/2027,"6,010.00",0,"6,010.00",Approved,Active
+DEP049715,DON014860,,N/A,04B Walk-in,Term,5/18/2026,4/6/2027,"4,840.00",0,"4,840.00",Approved,Active
+DEP049742,DON014906,,N/A,Checked in 1,Term,5/18/2026,3/17/2027,"5,750.00",0,"5,750.00",Approved,Active
+DEP049716,DON014332,,N/A,04B Walk-in,Term,5/18/2026,4/18/2027,"5,800.00",0,"5,800.00",Approved,Active
+DEP049714,DON014860,,N/A,04B Walk-in,Term,5/18/2026,4/6/2027,"6,010.00",0,"6,010.00",Approved,Active
 DEP049743,DON014979,,N/A,Checked in 2,Term,5/18/2026,1/2/2027,"6,350.00",0,"6,350.00",Approved,Active
-DEP049720,DON015063,"DO NOT USE: 11/18/25-1/2/26 (Doxycycline, Dicloxacillin, Linezolid, Sulfamethoxzale - trimethoprim)",N/A,Checked in 1,Term,5/18/2026,1/17/2027,"6,440.00",0,"6,440.00",Approved,Active
+DEP049720,DON015063,,N/A,Checked in 1,Term,5/18/2026,1/17/2027,"6,440.00",0,"6,440.00",Approved,Active
 DEP049728,DON014814,,N/A,Checked in 1,Term,5/18/2026,10/9/2026,"6,570.00",0,"6,570.00",Approved,Active
 DEP049729,DON014814,,N/A,04A Walk-in,Term,5/18/2026,10/9/2026,"6,570.00",0,"6,570.00",Approved,Active
-DEP049737,DON015086,"DO NOT USE: 1/27-2/7/26 (medications typically used during labor and delivery, Oxycodone)",N/A,Checked in 2,Term,5/18/2026,2/11/2027,"6,640.00",0,"6,640.00",Approved,Active
+DEP049737,DON015086,,N/A,Checked in 2,Term,5/18/2026,2/11/2027,"6,640.00",0,"6,640.00",Approved,Active
 DEP049731,DON014814,,N/A,Checked in 1,Term,5/18/2026,3/8/2027,"6,650.00",0,"6,650.00",Approved,Active
 DEP049730,DON014814,,N/A,04A Walk-in,Term,5/18/2026,10/22/2026,"6,710.00",0,"6,710.00",Approved,Active
 DEP049727,DON014814,,N/A,Checked in 1,Term,5/18/2026,2/20/2027,"6,730.00",0,"6,730.00",Approved,Active
 DEP049746,DON014477,,N/A,14E Walk-in (mini),Term,5/18/2026,12/27/2026,"6,750.00",0,"6,750.00",Approved,Active
 DEP049726,DON014814,,N/A,04A Walk-in,Term,5/18/2026,10/6/2026,"6,770.00",0,"6,770.00",Approved,Active
-DEP049740,DON015008,"DO NOT USE: 2/10-2/27/26 (Vancomycin, Clindamycin, Gentamicin, Metronidazole, Cefepime)",N/A,Checked in 1,Term,5/18/2026,3/24/2027,"7,020.00",0,"7,020.00",Approved,Active
+DEP049740,DON015008,,N/A,Checked in 1,Term,5/18/2026,3/24/2027,"7,020.00",0,"7,020.00",Approved,Active
 DEP049736,DON015162,,N/A,Checked in 1,Term,5/18/2026,2/21/2027,"7,030.00",0,"7,030.00",Approved,Active
 DEP049745,DON014477,,N/A,14D Walk-in (mini),Term,5/18/2026,11/23/2026,"7,510.00",0,"7,510.00",Approved,Active
 DEP049744,DON014477,,N/A,14D Walk-in (mini),Term,5/18/2026,11/22/2026,"7,820.00",0,"7,820.00",Approved,Active
 DEP049769,DON015087,,N/A,Checked in 1,Term,5/19/2026,1/10/2027,900,0,900,Approved,Active
-DEP049794,DON013959,"DO NOT USE: 6/5-6/12/25 (medications typically used during labor and delivery, oxycodone)",N/A,02E Walk-in,Term,5/19/2026,3/18/2027,"1,790.00",0,"1,790.00",Approved,Active
+DEP049794,DON013959,,N/A,02E Walk-in,Term,5/19/2026,3/18/2027,"1,790.00",0,"1,790.00",Approved,Active
 DEP049774,DON014086,,N/A,Checked in 1,Term,5/19/2026,1/5/2027,"2,380.00",0,"2,380.00",Approved,Active
-DEP049783,DON015022,"DO NOT USE: 3/26-4/2/25 (medications typically used during labor and delivery, unknow IV antibiotics); 9/21-9/28/25 (Amoxicillin)",N/A,Checked in 1,Term,5/19/2026,1/5/2027,"2,440.00",0,"2,440.00",Approved,Active
+DEP049783,DON015022,,N/A,Checked in 1,Term,5/19/2026,1/5/2027,"2,440.00",0,"2,440.00",Approved,Active
 DEP049787,DON015045,,N/A,Checked in 1,Term,5/19/2026,2/27/2027,"2,780.00",0,"2,780.00",Approved,Active
 DEP049770,DON015014,,N/A,03C Walk-in,Term,5/19/2026,10/14/2026,"3,100.00",0,"3,100.00",Approved,Active
 DEP049772,DON014928,,N/A,11C Walk-in,Term,5/19/2026,2/6/2027,"3,130.00",0,"3,130.00",Approved,Active
-DEP049788,DON014362,DO NOT USE: 3/26-8/31/25 (Bupropion),N/A,14D Walk-in (mini),Term,5/19/2026,11/26/2026,"3,290.00",0,"3,290.00",Approved,Active
+DEP049788,DON014362,,N/A,14D Walk-in (mini),Term,5/19/2026,11/26/2026,"3,290.00",0,"3,290.00",Approved,Active
 DEP049781,DON014726,,N/A,04E Walk-in,Unknown,5/19/2026,4/6/2027,"3,540.00",0,"3,540.00",Approved,Active
 DEP049786,DON015045,,N/A,Checked in 1,Term,5/19/2026,2/5/2027,"3,760.00",0,"3,760.00",Approved,Active
 DEP049790,DON015103,,N/A,Checked in 1,Term,5/19/2026,1/1/2027,"3,910.00",0,"3,910.00",Approved,Active
 DEP049789,DON015103,,N/A,14E Walk-in (mini),Term,5/19/2026,12/31/2026,"3,920.00",0,"3,920.00",Approved,Active
-DEP049768,DON014321,"DO NOT USE: 8/26-9/13/25 (Medications typically used during labor and delivery, Oxycodone)",N/A,14D Walk-in (mini),Term,5/19/2026,11/7/2026,"4,130.00",0,"4,130.00",Approved,Active
+DEP049768,DON014321,,N/A,14D Walk-in (mini),Term,5/19/2026,11/7/2026,"4,130.00",0,"4,130.00",Approved,Active
 DEP049780,DON014726,,N/A,Checked in 1,Term,5/19/2026,3/20/2027,"4,150.00",0,"4,150.00",Approved,Active
 DEP049784,DON014903,,N/A,02E Walk-in,Term,5/19/2026,3/9/2027,"4,250.00",0,"4,250.00",Approved,Active
 DEP049785,DON014903,,N/A,02E Walk-in,Term,5/19/2026,3/24/2027,"4,280.00",0,"4,280.00",Approved,Active
-DEP049791,DON015012,Okay to USE: All milk pumped 2025 or 2026,N/A,14D Walk-in (mini),Term,5/19/2026,11/24/2026,"4,320.00",0,"4,320.00",Approved,Active
-DEP049767,DON014571,"DO NOT USE: 8/29-9/12/25, 9/30-10/14/25 (Dicloxacillin)",N/A,14E Walk-in (mini),Term,5/19/2026,12/25/2026,"4,330.00",0,"4,330.00",Approved,Active
-DEP049779,DON014733,"Bags marked with date pumped, and 6-month ""expiration date""",N/A,Checked in 1,Term,5/19/2026,1/3/2027,"4,760.00",0,"4,760.00",Approved,Active
-DEP049776,DON014733,"Bags marked with date pumped, and 6-month ""expiration date""",N/A,14E Walk-in (mini),Term,5/19/2026,12/24/2026,"5,700.00",0,"5,700.00",Approved,Active
+DEP049791,DON015012,,N/A,14D Walk-in (mini),Term,5/19/2026,11/24/2026,"4,320.00",0,"4,320.00",Approved,Active
+DEP049767,DON014571,,N/A,14E Walk-in (mini),Term,5/19/2026,12/25/2026,"4,330.00",0,"4,330.00",Approved,Active
+DEP049779,DON014733,,N/A,Checked in 1,Term,5/19/2026,1/3/2027,"4,760.00",0,"4,760.00",Approved,Active
+DEP049776,DON014733,,N/A,14E Walk-in (mini),Term,5/19/2026,12/24/2026,"5,700.00",0,"5,700.00",Approved,Active
 DEP049763,DON013829,,N/A,03C Walk-in,Term,5/19/2026,10/8/2026,"5,810.00",0,"5,810.00",Approved,Active
 DEP049760,DON013829,,N/A,03C Walk-in,Term,5/19/2026,10/8/2026,"5,840.00",0,"5,840.00",Approved,Active
 DEP049773,DON014744,,N/A,14D Walk-in (mini),Term,5/19/2026,11/11/2026,"5,840.00",0,"5,840.00",Approved,Active
-DEP049793,DON014860,DO NOT USE: 1/30-2/9/2026 (Medications Typically used during labor and delivery; Oxycodone),N/A,Checked in 1,Term,5/19/2026,3/10/2027,"6,000.00",0,"6,000.00",Approved,Active
-DEP049771,DON014531,"DO NOT USE: 9/25-11/12/25 (medications typically used during labor and delivery, oxycodone, Nifedipine); 4/22-4/23/26 (anesthesia)",N/A,Checked in 1,Term,5/19/2026,3/24/2027,"6,170.00",0,"6,170.00",Approved,Active
+DEP049793,DON014860,,N/A,Checked in 1,Term,5/19/2026,3/10/2027,"6,000.00",0,"6,000.00",Approved,Active
+DEP049771,DON014531,,N/A,Checked in 1,Term,5/19/2026,3/24/2027,"6,170.00",0,"6,170.00",Approved,Active
 DEP049764,DON013829,,N/A,03C Walk-in,Term,5/19/2026,10/8/2026,"6,230.00",0,"6,230.00",Approved,Active
-DEP049792,DON014860,DO NOT USE: 1/30-2/9/2026 (Medications Typically used during labor and delivery; Oxycodone),N/A,Checked in 1,Term,5/19/2026,3/11/2027,"6,290.00",0,"6,290.00",Approved,Active
+DEP049792,DON014860,,N/A,Checked in 1,Term,5/19/2026,3/11/2027,"6,290.00",0,"6,290.00",Approved,Active
 DEP049829,DON012356,,N/A,Checked in 1,Term,5/20/2026,1/21/2027,"1,100.00",0,"1,100.00",Approved,Active
-DEP049833,DON013457,DO NOT USE: 3/17-5/5/2025 (ashwagandha); 7/3-7/19/2025 (dicloxacillin),N/A,03B Walk-in,Term,5/20/2026,10/9/2026,"2,280.00",0,"2,280.00",Approved,Active
+DEP049833,DON013457,,N/A,03B Walk-in,Term,5/20/2026,10/9/2026,"2,280.00",0,"2,280.00",Approved,Active
 DEP049832,DON014638,,N/A,14E Walk-in (mini),Term,5/20/2026,12/24/2026,"3,060.00",0,"3,060.00",Approved,Active
-DEP049830,DON015155,DO NOT USE: 3/5-3/16/2026 (Cephalexin),N/A,Checked in 1,Term,5/20/2026,1/23/2027,"3,630.00",0,"3,630.00",Approved,Active
+DEP049830,DON015155,,N/A,Checked in 1,Term,5/20/2026,1/23/2027,"3,630.00",0,"3,630.00",Approved,Active
 DEP049825,DON014726,,N/A,04B Walk-in,Term,5/20/2026,4/1/2027,"4,060.00",0,"4,060.00",Approved,Active
-DEP049813,DON014220,DO NOT USE: 10/25-11/2/25 (amoxicillin),N/A,14E Walk-in (mini),Term,5/20/2026,12/17/2026,"4,670.00",0,"4,670.00",Approved,Active
-DEP049810,DON014220,DO NOT USE: 10/25-11/2/25 (amoxicillin),N/A,Checked in 1,Term,5/20/2026,1/1/2027,"4,730.00",0,"4,730.00",Approved,Active
-DEP049812,DON014220,DO NOT USE: 10/25-11/2/25 (amoxicillin),N/A,Checked in 1,Term,5/20/2026,2/2/2027,"4,730.00",0,"4,730.00",Approved,Active
+DEP049813,DON014220,,N/A,14E Walk-in (mini),Term,5/20/2026,12/17/2026,"4,670.00",0,"4,670.00",Approved,Active
+DEP049810,DON014220,,N/A,Checked in 1,Term,5/20/2026,1/1/2027,"4,730.00",0,"4,730.00",Approved,Active
+DEP049812,DON014220,,N/A,Checked in 1,Term,5/20/2026,2/2/2027,"4,730.00",0,"4,730.00",Approved,Active
 DEP049831,DON015043,,N/A,Checked in 1,Term,5/20/2026,1/11/2027,"4,990.00",0,"4,990.00",Approved,Active
 DEP049828,DON015162,,N/A,02E Walk-in,Term,5/20/2026,3/27/2027,"5,290.00",0,"5,290.00",Approved,Active
 DEP049827,DON015162,,N/A,Checked in 1,Term,5/20/2026,2/28/2027,"5,310.00",0,"5,310.00",Approved,Active
@@ -354,122 +354,122 @@ DEP049819,DON015016,,N/A,02E Walk-in,Term,5/20/2026,3/3/2027,"5,660.00",0,"5,660
 DEP049821,DON015016,,N/A,02E Walk-in,Term,5/20/2026,3/20/2027,"5,980.00",0,"5,980.00",Approved,Active
 DEP049814,DON015016,,N/A,02E Walk-in,Term,5/20/2026,3/7/2027,"6,010.00",0,"6,010.00",Approved,Active
 DEP049824,DON014726,,N/A,02E Walk-in,Term,5/20/2026,3/17/2027,"6,010.00",0,"6,010.00",Approved,Active
-DEP049826,DON015161,DO NOT USE: 2/23-3/5/26 (Dicloxacillin),N/A,02E Walk-in,Term,5/20/2026,3/16/2027,"6,490.00",0,"6,490.00",Approved,Active
+DEP049826,DON015161,,N/A,02E Walk-in,Term,5/20/2026,3/16/2027,"6,490.00",0,"6,490.00",Approved,Active
 DEP049822,DON015143,,N/A,04B Walk-in,Term,5/20/2026,4/11/2027,"6,820.00",0,"6,820.00",Approved,Active
 DEP049823,DON015143,,N/A,Checked in 1,Term,5/20/2026,5/1/2027,"7,000.00",0,"7,000.00",Approved,Active
-DEP049834,DON015086,"DO NOT USE: 1/27-2/7/26 (medications typically used during labor and delivery, Oxycodone)",N/A,N/A,Unknown,5/21/2026,5/21/2027,0,"7,530.00","7,530.00",Approved,Disposed
+DEP049834,DON015086,,N/A,N/A,Unknown,5/21/2026,5/21/2027,0,"7,530.00","7,530.00",Approved,Disposed
 DEP049896,DON015163,,N/A,16E Walk-in (mini),Colostrum,5/22/2026,4/10/2027,"2,170.00",0,"2,170.00",Approved,Active
-DEP049886,DON014157,DO NOT USE: 4/13-4/22/25 (Cephalexin),N/A,Checked in 1,Term,5/22/2026,1/12/2027,"2,680.00",0,"2,680.00",Approved,Active
+DEP049886,DON014157,,N/A,Checked in 1,Term,5/22/2026,1/12/2027,"2,680.00",0,"2,680.00",Approved,Active
 DEP049863,DON014718,,N/A,14E Walk-in (mini),Term,5/22/2026,12/4/2026,"2,880.00",0,"2,880.00",Approved,Active
 DEP049868,DON014679,,N/A,03D Walk-in,Term,5/22/2026,10/21/2026,"3,110.00",0,"3,110.00",Approved,Active
-DEP049865,DON013107,"BEREAVED DO NOT USE: 3/2-3/5/25 (Toradol); bags marked with an ""X"" (alcohol)",N/A,Checked in 1,Term,5/22/2026,3/6/2027,"3,310.00",0,"3,310.00",Approved,Active
+DEP049865,DON013107,,N/A,Checked in 1,Term,5/22/2026,3/6/2027,"3,310.00",0,"3,310.00",Approved,Active
 DEP049897,DON015163,,N/A,04C Walk-in,Term,5/22/2026,4/15/2027,"3,420.00",0,"3,420.00",Approved,Active
-DEP049861,DON014779,"DO NOT USE: 11/11-12/17/2025 (oxycodone, Nifedipine & Labetalol)",N/A,Checked in 1,Term,5/22/2026,1/21/2027,"3,440.00",0,"3,440.00",Approved,Active
+DEP049861,DON014779,,N/A,Checked in 1,Term,5/22/2026,1/21/2027,"3,440.00",0,"3,440.00",Approved,Active
 DEP049872,DON014595,,N/A,05D Walk-in,Term,5/22/2026,11/17/2026,"3,480.00",0,"3,480.00",Approved,Active
-DEP049862,DON013893,DO NOT USE: 7/3-7/16/25 (Oxycodone),N/A,Checked in 1,Term,5/22/2026,3/19/2027,"3,570.00",0,"3,570.00",Approved,Active
-DEP049883,DON015196,DO NOT USE: 3/9-3/10/26 (Penicillin),N/A,04C Walk-in,Term,5/22/2026,4/13/2027,"4,080.00",0,"4,080.00",Approved,Active
-DEP049889,DON014967,"DO NOT USE: bags marked ""Do Not Drink ETOH"" (alcohol); 2/8-2/18/26 (ceftriaxone, cefdinir)",N/A,04C Walk-in,Term,5/22/2026,4/7/2027,"4,320.00",0,"4,320.00",Approved,Active
-DEP049887,DON014157,DO NOT USE: 4/13-4/22/25 (Cephalexin),N/A,Checked in 1,Term,5/22/2026,1/12/2027,"4,510.00",0,"4,510.00",Approved,Active
+DEP049862,DON013893,,N/A,Checked in 1,Term,5/22/2026,3/19/2027,"3,570.00",0,"3,570.00",Approved,Active
+DEP049883,DON015196,,N/A,04C Walk-in,Term,5/22/2026,4/13/2027,"4,080.00",0,"4,080.00",Approved,Active
+DEP049889,DON014967,,N/A,04C Walk-in,Term,5/22/2026,4/7/2027,"4,320.00",0,"4,320.00",Approved,Active
+DEP049887,DON014157,,N/A,Checked in 1,Term,5/22/2026,1/12/2027,"4,510.00",0,"4,510.00",Approved,Active
 DEP049864,DON014718,,N/A,14E Walk-in (mini),Term,5/22/2026,12/4/2026,"4,540.00",0,"4,540.00",Approved,Active
 DEP049876,DON014595,,N/A,05A Walk-in,Term,5/22/2026,11/17/2026,"4,950.00",0,"4,950.00",Approved,Active
 DEP049875,DON014595,,N/A,06B Walk-in,Term,5/22/2026,11/17/2026,"5,530.00",0,"5,530.00",Approved,Active
 DEP049859,DON014472,,N/A,03D Walk-in,Term,5/22/2026,10/2/2026,"5,540.00",0,"5,540.00",Approved,Active
-DEP049867,DON013107,"BEREAVED DO NOT USE: 3/2-3/5/25 (Toradol); bags marked with an ""X"" (alcohol)",N/A,Checked in 1,Term,5/22/2026,3/6/2027,"5,610.00",0,"5,610.00",Approved,Active
+DEP049867,DON013107,,N/A,Checked in 1,Term,5/22/2026,3/6/2027,"5,610.00",0,"5,610.00",Approved,Active
 DEP049878,DON014472,,N/A,06C Walk-in,Term,5/22/2026,11/10/2026,"5,650.00",0,"5,650.00",Approved,Active
-DEP049866,DON013107,"BEREAVED DO NOT USE: 3/2-3/5/25 (Toradol); bags marked with an ""X"" (alcohol)",N/A,Checked in 1,Term,5/22/2026,3/6/2027,"5,680.00",0,"5,680.00",Approved,Active
-DEP049877,DON014557,"DO NOT USE 11/10-11/15/25 (Anesthesia, oxycodone)",N/A,Checked in 1,Term,5/22/2026,1/4/2027,"5,850.00",0,"5,850.00",Approved,Active
-DEP049892,DON015196,DO NOT USE: 3/9-3/10/26 (Penicillin),N/A,04C Walk-in,Term,5/22/2026,4/22/2027,"6,280.00",0,"6,280.00",Approved,Active
-DEP049860,DON014779,"DO NOT USE: 11/11-12/17/2025 (oxycodone, Nifedipine & Labetalol)",N/A,Checked in 1,Term,5/22/2026,1/21/2027,"6,390.00",0,"6,390.00",Approved,Active
-DEP049894,DON015196,DO NOT USE: 3/9-3/10/26 (Penicillin),N/A,Checked in 1,Term,5/22/2026,5/2/2027,"6,500.00",0,"6,500.00",Approved,Active
-DEP049893,DON015196,DO NOT USE: 3/9-3/10/26 (Penicillin),N/A,02E Walk-in,Term,5/22/2026,3/29/2027,"6,950.00",0,"6,950.00",Approved,Active
-DEP049895,DON015196,DO NOT USE: 3/9-3/10/26 (Penicillin),N/A,02E Walk-in,Term,5/22/2026,3/19/2027,"7,660.00",0,"7,660.00",Approved,Active
+DEP049866,DON013107,,N/A,Checked in 1,Term,5/22/2026,3/6/2027,"5,680.00",0,"5,680.00",Approved,Active
+DEP049877,DON014557,,N/A,Checked in 1,Term,5/22/2026,1/4/2027,"5,850.00",0,"5,850.00",Approved,Active
+DEP049892,DON015196,,N/A,04C Walk-in,Term,5/22/2026,4/22/2027,"6,280.00",0,"6,280.00",Approved,Active
+DEP049860,DON014779,,N/A,Checked in 1,Term,5/22/2026,1/21/2027,"6,390.00",0,"6,390.00",Approved,Active
+DEP049894,DON015196,,N/A,Checked in 1,Term,5/22/2026,5/2/2027,"6,500.00",0,"6,500.00",Approved,Active
+DEP049893,DON015196,,N/A,02E Walk-in,Term,5/22/2026,3/29/2027,"6,950.00",0,"6,950.00",Approved,Active
+DEP049895,DON015196,,N/A,02E Walk-in,Term,5/22/2026,3/19/2027,"7,660.00",0,"7,660.00",Approved,Active
 DEP049928,DON014184,,N/A,06B Walk-in,Term,5/26/2026,11/3/2026,"1,520.00",0,"1,520.00",Approved,Active
-DEP049929,DON015203,"DO NOT USE: 12/15-12/19/25 (Hydromorphone); 12/21/25-1/1/26 (Hydromorphone, Cephalexin)",N/A,04C Walk-in,Term,5/26/2026,4/26/2027,"3,140.00",0,"3,140.00",Approved,Active
-DEP049923,DON015089,DO NOT USE: 2/2-2/29/26 (Valacyclovir),N/A,Checked in 1,Term,5/26/2026,3/1/2027,"3,720.00",0,"3,720.00",Approved,Active
-DEP049927,DON014157,DO NOT USE: 4/13-4/22/25 (Cephalexin),N/A,Checked in 1,Term,5/26/2026,2/4/2027,"4,380.00",0,"4,380.00",Approved,Active
-DEP049926,DON014157,DO NOT USE: 4/13-4/22/25 (Cephalexin),N/A,Checked in 1,Term,5/26/2026,2/4/2027,"4,940.00",0,"4,940.00",Approved,Active
-DEP049921,DON014424,DO NOT USE: 10/17-10/25/2025 (cephalexin),N/A,Checked in 1,Term,5/26/2026,2/3/2027,"5,470.00",0,"5,470.00",Approved,Active
-DEP049922,DON014424,DO NOT USE: 10/17-10/25/2025 (cephalexin),N/A,02E Walk-in,Term,5/26/2026,3/6/2027,"5,710.00",0,"5,710.00",Approved,Active
-DEP049925,DON014565,"DO NOT USE: 10/18-10/28/25 (Medications typically used for labor and delivery, Hydrocodone)",N/A,04C Walk-in,Term,5/26/2026,4/28/2027,"6,820.00",0,"6,820.00",Approved,Active
+DEP049929,DON015203,,N/A,04C Walk-in,Term,5/26/2026,4/26/2027,"3,140.00",0,"3,140.00",Approved,Active
+DEP049923,DON015089,,N/A,Checked in 1,Term,5/26/2026,3/1/2027,"3,720.00",0,"3,720.00",Approved,Active
+DEP049927,DON014157,,N/A,Checked in 1,Term,5/26/2026,2/4/2027,"4,380.00",0,"4,380.00",Approved,Active
+DEP049926,DON014157,,N/A,Checked in 1,Term,5/26/2026,2/4/2027,"4,940.00",0,"4,940.00",Approved,Active
+DEP049921,DON014424,,N/A,Checked in 1,Term,5/26/2026,2/3/2027,"5,470.00",0,"5,470.00",Approved,Active
+DEP049922,DON014424,,N/A,02E Walk-in,Term,5/26/2026,3/6/2027,"5,710.00",0,"5,710.00",Approved,Active
+DEP049925,DON014565,,N/A,04C Walk-in,Term,5/26/2026,4/28/2027,"6,820.00",0,"6,820.00",Approved,Active
 DEP049920,DON014406,,N/A,Checked in 1,Term,5/26/2026,1/2/2027,"7,260.00",0,"7,260.00",Approved,Active
-DEP049924,DON014565,"DO NOT USE: 10/18-10/28/25 (Medications typically used for labor and delivery, Hydrocodone)",N/A,04C Walk-in,Term,5/26/2026,4/28/2027,"7,460.00",0,"7,460.00",Approved,Active
-DEP049941,DON013203,DO NOT USE: 5/29-5/30/2025 (vomiting),N/A,12E Walk-in,Term,5/27/2026,8/22/2026,"2,400.00",0,"2,400.00",Approved,Active
-DEP049947,DON015197,DO NOT USE: 6/1-6/30/25 (anesthesia),N/A,14E Walk-in (mini),Term,5/27/2026,12/22/2026,"2,830.00",0,"2,830.00",Approved,Active
+DEP049924,DON014565,,N/A,04C Walk-in,Term,5/26/2026,4/28/2027,"7,460.00",0,"7,460.00",Approved,Active
+DEP049941,DON013203,,N/A,12E Walk-in,Term,5/27/2026,8/22/2026,"2,400.00",0,"2,400.00",Approved,Active
+DEP049947,DON015197,,N/A,14E Walk-in (mini),Term,5/27/2026,12/22/2026,"2,830.00",0,"2,830.00",Approved,Active
 DEP049946,DON014462,,N/A,Checked in 1,Term,5/27/2026,2/5/2027,"3,130.00",0,"3,130.00",Approved,Active
 DEP049939,DON014945,,N/A,14E Walk-in (mini),Term,5/27/2026,12/29/2026,"3,790.00",0,"3,790.00",Approved,Active
 DEP049938,DON014945,,N/A,14E Walk-in (mini),Term,5/27/2026,12/29/2026,"4,880.00",0,"4,880.00",Approved,Active
 DEP049943,DON014718,,N/A,Checked in 1,Term,5/27/2026,1/6/2027,"5,620.00",0,"5,620.00",Approved,Active
-DEP049944,DON014939,"DO NOT USE: 2/15-3/11/26 (oxycodone, celecoxib)",N/A,Checked in 1,Term,5/27/2026,3/12/2027,"6,080.00",0,"6,080.00",Approved,Active
-DEP049945,DON015085,DO NOT USE: 3/18-3/23/26 (Dicloxacillin),N/A,Checked in 1,Term,5/27/2026,3/11/2027,"6,670.00",0,"6,670.00",Never Approved,Active
+DEP049944,DON014939,,N/A,Checked in 1,Term,5/27/2026,3/12/2027,"6,080.00",0,"6,080.00",Approved,Active
+DEP049945,DON015085,,N/A,Checked in 1,Term,5/27/2026,3/11/2027,"6,670.00",0,"6,670.00",Never Approved,Active
 DEP049934,DON014945,,N/A,Checked in 1,Term,5/27/2026,2/16/2027,"7,840.00",0,"7,840.00",Approved,Active
-DEP049960,DON013974,"DO NOT USE: 5/26-8/26/2025 (medications typically used in labor and delivery, Valacyclovir); 9/10/25-9/16/2025 (Valacyclovir)",N/A,Checked in 1,Term,5/28/2026,3/24/2027,560,0,560,Approved,Active
-DEP049958,DON015159,BEREAVED,N/A,04C Walk-in,Term,5/28/2026,4/16/2027,"1,110.00",0,"1,110.00",Approved,Active
-DEP049962,DON013997,DO NOT USE: 6/7-6/8/25 & 7/19-7/20/25 (alcohol),N/A,06D Walk-in,Term,5/28/2026,11/5/2026,"2,170.00",0,"2,170.00",Approved,Active
-DEP049967,DON015099,"DO NOT USE: 5/22-6/1/2025 (IV antibiotic: Cefoxitin, Methergine, TXA); 12/29/25-1/17/26 (Dicloxacillin, Sulfamethoxazole + Trimethoprim)",N/A,16D Walk-in (mini),Unknown,5/28/2026,12/14/2026,"2,190.00",0,"2,190.00",Approved,Active
-DEP049959,DON015269,BEREAVED RESEARCH ONLY,N/A,Freezer 12,Research,5/28/2026,4/16/2027,"2,240.00",0,"2,240.00",Never Approved,Active
-DEP049969,DON015121,"DO NOT USE: 12/31/25-1/7/26 (medications typically used during labor and delivery, Oxycodone); 1/17-1/28/26 (Dicloxacillin)",N/A,Checked in 1,Term,5/28/2026,3/4/2027,"2,970.00",0,"2,970.00",Approved,Active
-DEP049961,DON014964,DO NOT USE: 12/7-12/13/2026 (Cephalexin),N/A,Checked in 1,Term,5/28/2026,2/4/2027,"3,010.00",0,"3,010.00",Approved,Active
+DEP049960,DON013974,,N/A,Checked in 1,Term,5/28/2026,3/24/2027,560,0,560,Approved,Active
+DEP049958,DON015159,,N/A,04C Walk-in,Term,5/28/2026,4/16/2027,"1,110.00",0,"1,110.00",Approved,Active
+DEP049962,DON013997,,N/A,06D Walk-in,Term,5/28/2026,11/5/2026,"2,170.00",0,"2,170.00",Approved,Active
+DEP049967,DON015099,,N/A,16D Walk-in (mini),Unknown,5/28/2026,12/14/2026,"2,190.00",0,"2,190.00",Approved,Active
+DEP049959,DON015269,,N/A,Freezer 12,Research,5/28/2026,4/16/2027,"2,240.00",0,"2,240.00",Never Approved,Active
+DEP049969,DON015121,,N/A,Checked in 1,Term,5/28/2026,3/4/2027,"2,970.00",0,"2,970.00",Approved,Active
+DEP049961,DON014964,,N/A,Checked in 1,Term,5/28/2026,2/4/2027,"3,010.00",0,"3,010.00",Approved,Active
 DEP049974,DON014924,,N/A,Checked in 1,Term,5/28/2026,1/15/2027,"3,210.00",0,"3,210.00",Approved,Active
-DEP049972,DON014738,DO NOT USE: 7/11-9/30/2025 (Placental capsules),N/A,03C Walk-in,Term,5/28/2026,10/14/2026,"3,440.00",0,"3,440.00",Approved,Active
-DEP049971,DON015157,DO NOT USE: 3/2-3/13/2026 (Amoxicillin) 4/10-4/11/2026 (Alcohol),N/A,Checked in 1,Term,5/28/2026,5/12/2027,"3,450.00",0,"3,450.00",Approved,Active
+DEP049972,DON014738,,N/A,03C Walk-in,Term,5/28/2026,10/14/2026,"3,440.00",0,"3,440.00",Approved,Active
+DEP049971,DON015157,,N/A,Checked in 1,Term,5/28/2026,5/12/2027,"3,450.00",0,"3,450.00",Approved,Active
 DEP049973,DON015244,,N/A,Checked in 1,Term,5/28/2026,3/12/2027,"3,510.00",0,"3,510.00",Approved,Active
 DEP050003,DON014630,,N/A,Checked in 1,Term,5/28/2026,2/14/2027,"3,960.00",0,"3,960.00",Approved,Active
-DEP049995,DON014228,DO NOT USE: 10/15-10/22/25 (Oxycodone),N/A,04C Walk-in,Term,5/28/2026,4/26/2027,"3,998.00",0,"3,998.00",Approved,Active
+DEP049995,DON014228,,N/A,04C Walk-in,Term,5/28/2026,4/26/2027,"3,998.00",0,"3,998.00",Approved,Active
 DEP049976,DON015173,,N/A,16D Walk-in (mini),Term,5/28/2026,12/1/2026,"4,380.00",0,"4,380.00",Approved,Active
-DEP049964,DON014659,DO NOT USE: 3/25-4/12/26 (Azithromycin),N/A,06D Walk-in,Term,5/28/2026,11/22/2026,"5,380.00",0,"5,380.00",Approved,Active
+DEP049964,DON014659,,N/A,06D Walk-in,Term,5/28/2026,11/22/2026,"5,380.00",0,"5,380.00",Approved,Active
 DEP050006,DON014979,,N/A,16D Walk-in (mini),Term,5/28/2026,12/18/2026,"5,660.00",0,"5,660.00",Approved,Active
-DEP049970,DON015121,"DO NOT USE: 12/31/25-1/7/26 (medications typically used during labor and delivery, Oxycodone); 1/17-1/28/26 (Dicloxacillin)",N/A,Checked in 1,Term,5/28/2026,3/4/2027,"5,760.00",0,"5,760.00",Approved,Active
-DEP050005,DON014461,DO NOT USE: 6/25-7/2/25 (Medications typically used for labor and delivery),N/A,16D Walk-in (mini),Term,5/28/2026,12/26/2026,"5,780.00",0,"5,780.00",Approved,Active
+DEP049970,DON015121,,N/A,Checked in 1,Term,5/28/2026,3/4/2027,"5,760.00",0,"5,760.00",Approved,Active
+DEP050005,DON014461,,N/A,16D Walk-in (mini),Term,5/28/2026,12/26/2026,"5,780.00",0,"5,780.00",Approved,Active
 DEP049975,DON015173,,N/A,16D Walk-in (mini),Term,5/28/2026,12/1/2026,"5,840.00",0,"5,840.00",Approved,Active
-DEP049968,DON015096,DO NOT USE: 9/3-9/20/25 (Oxycodone); 1/24-1/31/26 (Oseltamivir),N/A,Checked in 1,Term,5/28/2026,2/1/2027,"6,120.00",0,"6,120.00",Approved,Active
+DEP049968,DON015096,,N/A,Checked in 1,Term,5/28/2026,2/1/2027,"6,120.00",0,"6,120.00",Approved,Active
 DEP050002,DON014630,,N/A,Checked in 1,Term,5/28/2026,2/11/2027,"6,120.00",0,"6,120.00",Approved,Active
-DEP049997,DON014645,"DO NOT USE: 12/24-12/31/25 (Medication typically used for labor and delivery, oxycodone); 2/7-2/15/26 (cephalexin)",N/A,Checked in 1,Term,5/28/2026,5/11/2027,"6,140.00",0,"6,140.00",Approved,Active
-DEP049978,DON015013,"DO NOT USE: 1/23-1/25/26, 1/31-2/2/26, 2/14-2/16/26, 2/20-2/22/26, 3/1-3/3/26 (alcohol)",N/A,Checked in 1,Term,5/28/2026,1/26/2027,"6,190.00",0,"6,190.00",Approved,Active
-DEP049999,DON014645,"DO NOT USE: 12/24-12/31/25 (Medication typically used for labor and delivery, oxycodone); 2/7-2/15/26 (cephalexin)",N/A,Checked in 1,Term,5/28/2026,5/11/2027,"6,210.00",0,"6,210.00",Approved,Active
-DEP049963,DON014659,DO NOT USE: 3/25-4/12/26 (Azithromycin),N/A,06D Walk-in,Term,5/28/2026,11/22/2026,"6,330.00",0,"6,330.00",Approved,Active
-DEP049977,DON015013,"DO NOT USE: 1/23-1/25/26, 1/31-2/2/26, 2/14-2/16/26, 2/20-2/22/26, 3/1-3/3/26 (alcohol)",N/A,Checked in 1,Term,5/28/2026,1/26/2027,"6,420.00",0,"6,420.00",Approved,Active
-DEP049993,DON014228,DO NOT USE: 10/15-10/22/25 (Oxycodone),N/A,04C Walk-in,Term,5/28/2026,4/28/2027,"6,430.00",0,"6,430.00",Approved,Active
-DEP049992,DON014228,DO NOT USE: 10/15-10/22/25 (Oxycodone),N/A,Checked in 1,Term,5/28/2026,5/2/2027,"6,820.00",0,"6,820.00",Approved,Active
+DEP049997,DON014645,,N/A,Checked in 1,Term,5/28/2026,5/11/2027,"6,140.00",0,"6,140.00",Approved,Active
+DEP049978,DON015013,,N/A,Checked in 1,Term,5/28/2026,1/26/2027,"6,190.00",0,"6,190.00",Approved,Active
+DEP049999,DON014645,,N/A,Checked in 1,Term,5/28/2026,5/11/2027,"6,210.00",0,"6,210.00",Approved,Active
+DEP049963,DON014659,,N/A,06D Walk-in,Term,5/28/2026,11/22/2026,"6,330.00",0,"6,330.00",Approved,Active
+DEP049977,DON015013,,N/A,Checked in 1,Term,5/28/2026,1/26/2027,"6,420.00",0,"6,420.00",Approved,Active
+DEP049993,DON014228,,N/A,04C Walk-in,Term,5/28/2026,4/28/2027,"6,430.00",0,"6,430.00",Approved,Active
+DEP049992,DON014228,,N/A,Checked in 1,Term,5/28/2026,5/2/2027,"6,820.00",0,"6,820.00",Approved,Active
 DEP050004,DON015069,,N/A,05C Walk-in,Term,5/28/2026,11/13/2026,"7,050.00",0,"7,050.00",Approved,Active
-DEP049966,DON015099,"DO NOT USE: 5/22-6/1/2025 (IV antibiotic: Cefoxitin, Methergine, TXA); 12/29/25-1/17/26 (Dicloxacillin, Sulfamethoxazole + Trimethoprim)",N/A,16D Walk-in (mini),Term,5/28/2026,12/14/2026,"7,540.00",0,"7,540.00",Approved,Active
-DEP049965,DON015099,"DO NOT USE: 5/22-6/1/2025 (IV antibiotic: Cefoxitin, Methergine, TXA); 12/29/25-1/17/26 (Dicloxacillin, Sulfamethoxazole + Trimethoprim)",N/A,16D Walk-in (mini),Term,5/28/2026,12/14/2026,"7,880.00",0,"7,880.00",Approved,Active
+DEP049966,DON015099,,N/A,16D Walk-in (mini),Term,5/28/2026,12/14/2026,"7,540.00",0,"7,540.00",Approved,Active
+DEP049965,DON015099,,N/A,16D Walk-in (mini),Term,5/28/2026,12/14/2026,"7,880.00",0,"7,880.00",Approved,Active
 DEP050062,DON013678,,N/A,Checked in 1,Term,5/29/2026,7/15/2026,870,0,870,Approved,Active
 DEP050024,DON013366,,N/A,N/A,Term,5/29/2026,5/29/2027,0,"1,890.00","1,890.00",Approved,Disposed
-DEP050058,DON015060,DO NOT USE: 3/28-4/3/26 (amoxicillin),N/A,Checked in 1,Term,5/29/2026,3/7/2027,"2,010.00",0,"2,010.00",Approved,Active
-DEP050054,DON013969,DO NOT USE: 1/5/26-1/16/26 (Dicloxacillin),N/A,16D Walk-in (mini),Term,5/29/2026,12/6/2026,"2,020.00",0,"2,020.00",Approved,Active
-DEP050022,DON014461,DO NOT USE: 6/25-7/2/25 (Medications typically used for labor and delivery),N/A,Checked in 1,Term,5/29/2026,1/20/2027,"2,410.00",0,"2,410.00",Approved,Active
+DEP050058,DON015060,,N/A,Checked in 1,Term,5/29/2026,3/7/2027,"2,010.00",0,"2,010.00",Approved,Active
+DEP050054,DON013969,,N/A,16D Walk-in (mini),Term,5/29/2026,12/6/2026,"2,020.00",0,"2,020.00",Approved,Active
+DEP050022,DON014461,,N/A,Checked in 1,Term,5/29/2026,1/20/2027,"2,410.00",0,"2,410.00",Approved,Active
 DEP050063,DON015102,,N/A,Checked in 1,Term,5/29/2026,1/28/2027,"2,450.00",0,"2,450.00",Approved,Active
-DEP050020,DON014953,"DO NOT USE: 11/19-1/3/26 (medications typically used during labor and delivery, Oxycodone, Gabapentin)",N/A,Checked in 1,Term,5/29/2026,2/2/2027,"3,230.00",0,"3,230.00",Approved,Active
+DEP050020,DON014953,,N/A,Checked in 1,Term,5/29/2026,2/2/2027,"3,230.00",0,"3,230.00",Approved,Active
 DEP050039,DON015072,,N/A,Checked in 1,Term,5/29/2026,3/11/2027,"3,440.00",0,"3,440.00",Approved,Active
 DEP050018,DON014850,,N/A,Checked in 1,Term,5/29/2026,2/1/2027,"3,660.00",0,"3,660.00",Approved,Active
-DEP050038,DON014461,DO NOT USE: 6/25-7/2/25 (Medications typically used for labor and delivery),N/A,Checked in 1,Term,5/29/2026,1/15/2027,"3,720.00",0,"3,720.00",Approved,Active
-DEP050057,DON014943,DO NOT USE: 9/1-10/3/25 (marijuana); 1/30-2/27/26 (azithromycin),N/A,05D Walk-in,Term,5/29/2026,11/24/2026,"3,740.00",0,"3,740.00",Approved,Active
-DEP050013,DON014166,"DO NOT USE: 8/21-9/8/25 (acyclovir, oxycodone)",N/A,16D Walk-in (mini),Term,5/29/2026,12/1/2026,"3,820.00",0,"3,820.00",Approved,Active
+DEP050038,DON014461,,N/A,Checked in 1,Term,5/29/2026,1/15/2027,"3,720.00",0,"3,720.00",Approved,Active
+DEP050057,DON014943,,N/A,05D Walk-in,Term,5/29/2026,11/24/2026,"3,740.00",0,"3,740.00",Approved,Active
+DEP050013,DON014166,,N/A,16D Walk-in (mini),Term,5/29/2026,12/1/2026,"3,820.00",0,"3,820.00",Approved,Active
 DEP050051,DON014771,,N/A,16D Walk-in (mini),Term,5/29/2026,12/12/2026,"3,970.00",0,"3,970.00",Approved,Active
-DEP050059,DON015011,DO NOT USE: 1/27-2/3/26 (Medications used for labor and delivery),N/A,02D Walk-in,Term,5/29/2026,3/25/2027,"4,290.00",0,"4,290.00",Approved,Active
-DEP050036,DON014461,DO NOT USE: 6/25-7/2/25 (Medications typically used for labor and delivery),N/A,Checked in 1,Term,5/29/2026,1/2/2027,"4,570.00",0,"4,570.00",Approved,Active
-DEP050061,DON014943,DO NOT USE: 9/1-10/3/25 (marijuana); 1/30-2/27/26 (azithromycin),N/A,05D Walk-in,Term,5/29/2026,11/24/2026,"4,620.00",0,"4,620.00",Approved,Active
+DEP050059,DON015011,,N/A,02D Walk-in,Term,5/29/2026,3/25/2027,"4,290.00",0,"4,290.00",Approved,Active
+DEP050036,DON014461,,N/A,Checked in 1,Term,5/29/2026,1/2/2027,"4,570.00",0,"4,570.00",Approved,Active
+DEP050061,DON014943,,N/A,05D Walk-in,Term,5/29/2026,11/24/2026,"4,620.00",0,"4,620.00",Approved,Active
 DEP050011,DON013917,,N/A,Checked in 1,Term,5/29/2026,1/4/2027,"4,660.00",0,"4,660.00",Approved,Active
 DEP050016,DON014865,,N/A,Checked in 1,Term,5/29/2026,1/27/2027,"4,680.00",0,"4,680.00",Approved,Active
 DEP050014,DON013917,,N/A,Checked in 1,Term,5/29/2026,2/9/2027,"4,820.00",0,"4,820.00",Approved,Active
-DEP050031,DON014461,DO NOT USE: 6/25-7/2/25 (Medications typically used for labor and delivery),N/A,Checked in 1,Term,5/29/2026,1/2/2027,"4,940.00",0,"4,940.00",Approved,Active
+DEP050031,DON014461,,N/A,Checked in 1,Term,5/29/2026,1/2/2027,"4,940.00",0,"4,940.00",Approved,Active
 DEP050015,DON013917,,N/A,Checked in 1,Term,5/29/2026,2/9/2027,"4,980.00",0,"4,980.00",Approved,Active
 DEP050048,DON015220,,N/A,Checked in 1,Term,5/29/2026,2/22/2027,"5,010.00",0,"5,010.00",Approved,Active
-DEP050035,DON014461,DO NOT USE: 6/25-7/2/25 (Medications typically used for labor and delivery),N/A,Checked in 1,Term,5/29/2026,1/15/2027,"5,030.00",0,"5,030.00",Approved,Active
+DEP050035,DON014461,,N/A,Checked in 1,Term,5/29/2026,1/15/2027,"5,030.00",0,"5,030.00",Approved,Active
 DEP050012,DON013917,,N/A,Checked in 1,Term,5/29/2026,1/4/2027,"5,160.00",0,"5,160.00",Approved,Active
 DEP050028,DON013917,,N/A,Checked in 1,Term,5/29/2026,2/2/2027,"5,280.00",0,"5,280.00",Approved,Active
 DEP050030,DON013917,,N/A,Checked in 1,Term,5/29/2026,2/2/2027,"5,680.00",0,"5,680.00",Approved,Active
-DEP050050,DON013969,DO NOT USE: 1/5/26-1/16/26 (Dicloxacillin),N/A,Checked in 1,Term,5/29/2026,1/27/2027,"5,810.00",0,"5,810.00",Approved,Active
+DEP050050,DON013969,,N/A,Checked in 1,Term,5/29/2026,1/27/2027,"5,810.00",0,"5,810.00",Approved,Active
 DEP050042,DON015072,,N/A,Checked in 1,Term,5/29/2026,3/11/2027,"5,960.00",0,"5,960.00",Approved,Active
 DEP050055,DON015098,,N/A,04C Walk-in,Term,5/29/2026,4/4/2027,"5,970.00",0,"5,970.00",Approved,Active
-DEP050032,DON014586,DO NOT USE: 11/17-11/23/2025 (Medications typically used during labor and delivery),N/A,Checked in 1,Term,5/29/2026,2/27/2027,"6,020.00",0,"6,020.00",Approved,Active
-DEP050060,DON015060,DO NOT USE: 3/28-4/3/26 (amoxicillin),N/A,02D Walk-in,Term,5/29/2026,3/10/2027,"6,090.00",0,"6,090.00",Approved,Active
-DEP050029,DON014586,DO NOT USE: 11/17-11/23/2025 (Medications typically used during labor and delivery),N/A,Checked in 1,Term,5/29/2026,2/27/2027,"6,120.00",0,"6,120.00",Approved,Active
+DEP050032,DON014586,,N/A,Checked in 1,Term,5/29/2026,2/27/2027,"6,020.00",0,"6,020.00",Approved,Active
+DEP050060,DON015060,,N/A,02D Walk-in,Term,5/29/2026,3/10/2027,"6,090.00",0,"6,090.00",Approved,Active
+DEP050029,DON014586,,N/A,Checked in 1,Term,5/29/2026,2/27/2027,"6,120.00",0,"6,120.00",Approved,Active
 DEP050049,DON015072,,N/A,02D Walk-in,Term,5/29/2026,3/18/2027,"6,140.00",0,"6,140.00",Approved,Active
 DEP050064,DON013992,,N/A,02D Walk-in,Term,5/29/2026,3/5/2027,"6,190.00",0,"6,190.00",Approved,Active
 DEP050041,DON015072,,N/A,02D Walk-in,Term,5/29/2026,3/11/2027,"6,210.00",0,"6,210.00",Approved,Active
-DEP050056,DON015060,DO NOT USE: 3/28-4/3/26 (amoxicillin),N/A,Checked in 1,Term,5/29/2026,2/23/2027,"6,330.00",0,"6,330.00",Approved,Active
+DEP050056,DON015060,,N/A,Checked in 1,Term,5/29/2026,2/23/2027,"6,330.00",0,"6,330.00",Approved,Active
 DEP050047,DON015072,,N/A,02D Walk-in,Term,5/29/2026,3/18/2027,"7,270.00",0,"7,270.00",Approved,Active
-DEP050037,DON014461,DO NOT USE: 6/25-7/2/25 (Medications typically used for labor and delivery),N/A,04C Walk-in,Term,5/29/2026,4/1/2027,"7,280.00",0,"7,280.00",Approved,Active
-Total Original Volume:,Total Remaining Volume,Total Used Volume:,,,,,,,,,,
-"2,358,958.00 mL","2,199,658.00 mL","159,300.00 mL",,,,,,,,,,
+DEP050037,DON014461,,N/A,04C Walk-in,Term,5/29/2026,4/1/2027,"7,280.00",0,"7,280.00",Approved,Active
+Total Original Volume:,Total Remaining Volume,,,,,,,,,,,
+"2,358,958.00 mL","2,199,658.00 mL",,,,,,,,,,,
