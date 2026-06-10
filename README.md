@@ -63,7 +63,7 @@ Each row represents one milk deposit.
 | Column | Description |
 |---|---|
 | `deposit` | Deposit ID (e.g. `DEP049229`) |
-| `donor_milk_bank` | Donor ID (e.g. `DON014232`) |
+| `donor_id` | Donor ID (e.g. `DON014232`) |
 | `donor_warnings` | Any active donor warnings |
 | `split_off_from` | Parent deposit if split |
 | `location` | Storage location |
